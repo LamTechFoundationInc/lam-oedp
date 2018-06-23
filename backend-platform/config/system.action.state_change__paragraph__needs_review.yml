@@ -1,0 +1,11 @@
+uuid: dfe810bc-b707-4b1b-8c5f-11e81e786f0e
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__paragraph__needs_review
+label: 'Set Paragraph as Needs Review'
+type: paragraph
+plugin: 'state_change:paragraph__needs_review'
+configuration: {  }

@@ -1,0 +1,126 @@
+uuid: 29882955-cd0a-4d2c-a49c-ef3694a38eb7
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_display.comment.public_servant_review.default
+    - field.field.node.public_servants.body
+    - field.field.node.public_servants.field_lt_first_name
+    - field.field.node.public_servants.field_lt_level_of_education
+    - field.field.node.public_servants.field_lt_manifesto
+    - field.field.node.public_servants.field_lt_name_prefix
+    - field.field.node.public_servants.field_lt_photo
+    - field.field.node.public_servants.field_lt_profession
+    - field.field.node.public_servants.field_lt_surname
+    - field.field.node.public_servants.field_mda
+    - field.field.node.public_servants.field_middle_given_names
+    - field.field.node.public_servants.field_op_linkedin_account
+    - field.field.node.public_servants.field_op_subtitle
+    - field.field.node.public_servants.field_rate_public_servant
+    - field.field.node.public_servants.field_review
+    - field.field.node.public_servants.field_suffix
+    - node.type.public_servants
+  module:
+    - comment
+    - panelizer
+    - text
+    - user
+    - votingapi_widgets
+third_party_settings:
+  panelizer:
+    enable: false
+    custom: false
+    allow: false
+    default: default
+id: node.public_servants.default
+targetEntityType: node
+bundle: public_servants
+mode: default
+content:
+  addtoany:
+    weight: 7
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  body:
+    label: hidden
+    type: text_default
+    weight: 5
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_lt_manifesto:
+    weight: 6
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_lt_photo:
+    weight: 1
+    label: hidden
+    settings:
+      view_mode: candidate_photos
+      link: false
+    third_party_settings: {  }
+    type: entity_reference_entity_view
+    region: content
+  field_lt_profession:
+    weight: 4
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_mda:
+    weight: 3
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_op_subtitle:
+    weight: 2
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_rate_public_servant:
+    weight: 0
+    label: above
+    settings:
+      style: default
+      readonly: '1'
+      show_results: '1'
+      values: {  }
+    third_party_settings: {  }
+    type: voting_api_formatter
+    region: content
+  field_review:
+    weight: 9
+    label: above
+    settings:
+      view_mode: default
+      pager_id: 0
+    third_party_settings: {  }
+    type: comment_default
+    region: content
+  links:
+    weight: 8
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_lt_first_name: true
+  field_lt_level_of_education: true
+  field_lt_name_prefix: true
+  field_lt_surname: true
+  field_middle_given_names: true
+  field_op_linkedin_account: true
+  field_suffix: true
+  like_and_dislike: true

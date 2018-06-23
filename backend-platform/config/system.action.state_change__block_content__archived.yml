@@ -1,0 +1,11 @@
+uuid: 7a1a1f9d-5e50-4d23-83f2-cf810ac47a49
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__block_content__archived
+label: 'Set Custom block as Archived'
+type: block_content
+plugin: 'state_change:block_content__archived'
+configuration: {  }

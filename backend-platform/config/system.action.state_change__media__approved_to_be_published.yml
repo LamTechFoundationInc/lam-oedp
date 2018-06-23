@@ -1,0 +1,11 @@
+uuid: b40752f0-a659-4e8d-9a4d-3dab9062c8f3
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__media__approved_to_be_published
+label: 'Set Media as Approved to be Published'
+type: media
+plugin: 'state_change:media__approved_to_be_published'
+configuration: {  }

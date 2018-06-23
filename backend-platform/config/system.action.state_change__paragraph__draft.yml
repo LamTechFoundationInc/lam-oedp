@@ -1,0 +1,11 @@
+uuid: ca66f7cc-88fa-4f35-a5a8-77a591e78298
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__paragraph__draft
+label: 'Set Paragraph as Draft'
+type: paragraph
+plugin: 'state_change:paragraph__draft'
+configuration: {  }

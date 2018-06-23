@@ -1,0 +1,11 @@
+uuid: 9ea728df-e638-46b7-be6b-efea157d53a1
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__paragraph__archived
+label: 'Set Paragraph as Archived'
+type: paragraph
+plugin: 'state_change:paragraph__archived'
+configuration: {  }

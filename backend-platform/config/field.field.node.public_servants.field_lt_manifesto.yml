@@ -1,0 +1,28 @@
+uuid: ed193dff-e6c1-4a0b-884f-d21bef28b040
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_lt_manifesto
+    - media_entity.bundle.document
+    - node.type.public_servants
+id: node.public_servants.field_lt_manifesto
+field_name: field_lt_manifesto
+entity_type: node
+bundle: public_servants
+label: CV
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      document: document
+    sort:
+      field: _none
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

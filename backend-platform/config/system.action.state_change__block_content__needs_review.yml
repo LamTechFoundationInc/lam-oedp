@@ -1,0 +1,11 @@
+uuid: b2de2573-535c-4467-a59b-c5f694e24ea7
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__block_content__needs_review
+label: 'Set Custom block as Needs Review'
+type: block_content
+plugin: 'state_change:block_content__needs_review'
+configuration: {  }

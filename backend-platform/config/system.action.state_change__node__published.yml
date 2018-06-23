@@ -1,0 +1,11 @@
+uuid: 2aea9426-0cc7-4a60-a276-4263fd92f57b
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__node__published
+label: 'Set Content as Published'
+type: node
+plugin: 'state_change:node__published'
+configuration: {  }

@@ -1,0 +1,11 @@
+uuid: 333c4a1a-091a-47ed-8965-61c2059ac0a9
+langcode: en
+status: true
+dependencies:
+  module:
+    - workbench_moderation_actions
+id: state_change__node__needs_review
+label: 'Set Content as Needs Review'
+type: node
+plugin: 'state_change:node__needs_review'
+configuration: {  }
