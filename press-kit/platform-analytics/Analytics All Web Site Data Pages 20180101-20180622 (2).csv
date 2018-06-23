@@ -1,0 +1,31 @@
+# ----------------------------------------
+# All Web Site Data
+# Pages
+# 20180101-20180622
+# ----------------------------------------
+
+Previous Page Path,Page Views
+/results,334
+/resources/downloads/results,199
+/results/presidential/table,107
+/resources,71
+/resources/electoral-violence-reports,66
+/results/presidential/cards?date=1&granularity=Country Summary&region=All&district=All,63
+/get-involved,59
+/news-and-events,58
+/results/parliamentary/table,53
+/about-us,48
+,"2,736"
+
+Next Page Path,Page Views
+/results,634
+/resources/downloads/results,459
+/results/presidential/cards?date=1&granularity=Country Summary&region=All&district=All,154
+/resources,149
+/about-us,141
+/resources/electoral-violence-reports,139
+/get-involved,133
+/get-involved/developer-documentation,96
+/scorecard/presidential/campaign-promises/cards,96
+/user/login,94
+,"3,526"

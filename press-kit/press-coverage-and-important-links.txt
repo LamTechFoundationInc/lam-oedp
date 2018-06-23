@@ -1,0 +1,80 @@
+Main platform
+https://elections.sl/ or https://electiondata.io/
+
+Election Results App
+https://app.elections.sl/
+
+Track Campaign Promises
+https://elections.sl/scorecard/presidential/campaign-promises/cards
+
+Download Campaign promises
+https://elections.sl/api/resources/scorecard/presidential/campaign-promises.csv
+
+Submit Status update on Campaign Promises
+https://elections.sl/form/campaign-promise-public-feedback
+
+Download Election results from platform
+https://elections.sl/resources/downloads/results
+
+Download Platform Source Code with Open data
+https://github.com/LamTechFoundationInc/lam-oedp
+
+View Volunteer documentation
+https://elections.sl/get-involved/volunteer-documentation
+
+flikr Photostream of election images
+https://www.flickr.com/photos/140597530@N06/with/26805384548/
+
+Twitter
+https://twitter.com/OpenElectionssl
+
+Facebook
+https://www.facebook.com/openelectionssl
+
+Youtube
+https://www.youtube.com/watch?v=Xh0jTGzXMmc&list=PLOAycfXrpVNEp-8Cc4gxnX5IhYA7DPPq_
+
+
+Press Coverage Links
+
+Ahead of 2018 Elections…. Lamtech Opens Election Data Plan
+http://ayvnews.com/AYVNews/index.php/news/item/4708-ahead-of-2018-elections-lamtech-opens-election-data-platform
+
+Website On Election Data Platform Out
+https://www.salonetoday.com/website-on-election-data-platform-out/
+
+World Bank to Support RAIC with $50,000
+http://slconcordtimes.com/world-bank-to-support-raic-with-50000/
+
+LAMTECH Supports 2018 Elections
+http://slconcordtimes.com/lamtech-supports-2018-elections/
+
+Sierra Leone News: RAIC to embark on popularization of 2013 Act
+https://awoko.org/2018/01/15/sierra-leone-news-raic-to-embark-on-popularization-of-2013-act/
+
+Setting the record straight about Agora’s Blockchain Elections Misleading headlines on the internet
+https://medium.com/@tlamin/setting-the-record-straight-about-agoras-blockchain-elections-misleading-headlines-on-the-internet-afcf20c7a3b7
+
+Agora Official Statement Regarding Sierra Leone Election
+https://medium.com/agorablockchain/agora-official-statement-regarding-sierra-leone-election-7730d2d9de4e
+
+Who Created the Story of Sierra Leone's Blockchain Election?
+https://cointelegraph.com/news/sierra-leones-fake-blockchain-election-hasnt-damaged-the-technologys-reputation
+
+The Sierra Leone Vote: What We Got Wrong
+https://www.coindesk.com/blockchain-vote-election-sierra-leone-got-wrong/
+
+Hold Up: What Actually Happened in Sierra Leone’s “Blockchain” Election?
+https://futurism.com/sierra-leone-election-blockchain-agora/
+
+No, Sierra Leone did not just run the world's first 'blockchain election'
+https://www.theregister.co.uk/2018/03/21/no_sierra_leone_did_not_run_the_worlds_first_blockchain_election/
+
+Sierra Leone and the Blockchain Election That Wasn't
+https://bitcoinmagazine.com/articles/sierra-leone-and-blockchain-election-wasnt/
+
+
+
+Sierra Leone Presidential Elections
+West Districts Results
+https://agora.vote/sierraleone2018/results

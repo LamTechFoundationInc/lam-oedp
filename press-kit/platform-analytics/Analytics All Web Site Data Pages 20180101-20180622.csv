@@ -1,0 +1,27 @@
+# ----------------------------------------
+# All Web Site Data
+# Pages
+# 20180101-20180622
+# ----------------------------------------
+
+Page,Page Views,Unique Page Views,Avg. Time on Page,Entrances,Bounce Rate,% Exit,Page Value
+/,"8,590","5,667",00:01:52,"4,422",39.83%,42.28%,US$0.00
+/results,"7,763","4,841",00:01:12,"1,376",38.84%,28.56%,US$0.00
+/results/presidential/table,"5,133","3,935",00:01:27,"3,439",53.61%,51.76%,US$0.00
+/results/parliamentary/table,"3,674","2,576",00:01:35,"2,014",32.17%,34.19%,US$0.00
+/polls,"3,103","2,338",00:03:01,"2,242",72.85%,69.96%,US$0.00
+/resources/downloads/results,"2,873","1,908",00:01:48,558,33.04%,30.32%,US$0.00
+/results/parliamentary/cards,"2,420","1,367",00:01:12,571,21.02%,18.02%,US$0.00
+/resources,"1,265",690,00:00:51,112,45.13%,14.70%,US$0.00
+/results/parliamentary/table?date=4&granularity=All&district=All&constituency=All&polling-station=&page=1,"1,155",694,00:00:51,44,34.09%,9.70%,US$0.00
+/results/presidential/cards?date=1&granularity=Country Summary&region=All&district=All,"1,128",752,00:01:15,99,44.90%,18.62%,US$0.00
+,"125,741","94,696",00:01:19,"28,395",49.26%,22.58%,US$0.00
+
+Month Index,Page Views
+0000,"11,699"
+0001,"22,173"
+0002,"53,041"
+0003,"29,053"
+0004,"6,658"
+0005,"3,117"
+,"125,741"

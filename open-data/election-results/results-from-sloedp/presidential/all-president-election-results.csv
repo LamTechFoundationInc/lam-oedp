@@ -1,0 +1,950 @@
+SLEOP_ID,Candidate_SLEOP_ID,ElectionDate,ElectionType,ResultType,ElectionDistrict,ElectionRegion,CandidateSurname,CandidateFirstName,CandidatePoliticalParty,CandidatePoliticalPartyColor,ElectionRound,ValidVotes,ValidVotesPercent,Winner,ResultStatus,CandidatePhoto
+39,3737,2002-05-14,Presidential,"National Results",,,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",1373146,70.10,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+29757,7,2018-03-31,Presidential,"National Results",,,Bio,Julius,SLPP,009900,"Second Round",1319406,51.81,Yes,Provisional,julius-maada-bio.jpg
+59,33,2012-11-17,Presidential,"National Results",,,"Bai Koroma",Ernest,APC,FF333C,"First Round",1314881,58.70,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+29756,6,2018-03-31,Presidential,"National Results",,,Kamara,Samura,APC,FF333C,"Second Round",1227171,48.19,No,Provisional,dr-samura-matthew-wilson-kamara.jpg
+28903,7,2018-03-07,Presidential,"National Results",,,Bio,Julius,SLPP,009900,"First Round",1097482,43.26,Yes,Final/Certified,julius-maada-bio.jpg
+28812,6,2018-03-07,Presidential,"National Results",,,Kamara,Samura,APC,FF333C,"First Round",1082748,42.68,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+72,33,2007-09-08,Presidential,"National Results",,,"Bai Koroma",Ernest,APC,FF333C,"Second Round",950407,54.60,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+5403,7,2012-11-17,Presidential,"National Results",,,Bio,Julius,SLPP,009900,"First Round",837517,37.40,No,Final/Certified,julius-maada-bio.jpg
+68,33,2007-08-11,Presidential,"National Results",,,"Bai Koroma",Ernest,APC,FF333C,"First Round",815523,44.30,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+71,61,2007-09-08,Presidential,"National Results",,,Berewa,Solomon,SLPP,009900,"Second Round",789651,45.40,No,Final/Certified,solomon-berewa.jpg
+64,61,2007-08-11,Presidential,"National Results",,,Berewa,Solomon,SLPP,009900,"First Round",704012,38.30,No,Final/Certified,solomon-berewa.jpg
+31252,33,2012-11-17,Presidential,"Regional Results",,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",682142,89.78,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+32106,3737,1996-03-15,Presidential,"National Results",,,Kabbah,"Ahmad Tejan",SLPP,009900,"Second Round",608419,59.49,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+7922,3737,1996-03-15,Presidential,"National Results",,,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",608419,59.49,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+32132,3737,2002-05-14,Presidential,"Regional Results",,South,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",532220,95.49,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+32108,3737,2002-05-14,Presidential,"Regional Results",,East,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",458375,91.82,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+32095,6,2018-03-31,Presidential,"Regional Results",,West,Kamara,Samura,APC,FF333C,"Second Round",447197,60.48,Yes,Provisional,dr-samura-matthew-wilson-kamara.jpg
+31240,33,2007-08-11,Presidential,"Regional Results",,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",431896,76.75,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+29233,7,2018-03-07,Presidential,"Regional Results",,South,Bio,Julius,SLPP,009900,"First Round",428396,82.71,Yes,Final/Certified,julius-maada-bio.jpg
+42,33,2002-05-14,Presidential,"National Results",,,"Bai Koroma",Ernest,APC,FF333C,"First Round",426405,22.30,No,Final/Certified,Ernest-Bai-Koroma.jpg
+28833,6,2018-03-07,Presidential,"Regional Results",,West,Kamara,Samura,APC,FF333C,"First Round",418653,57.18,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31248,33,2012-11-17,Presidential,"Regional Results",,West,"Bai Koroma",Ernest,APC,FF333C,"First Round",416480,72.11,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+7923,32,1996-03-15,Presidential,"National Results",,,Karefa-Smart,John,UNPP,CCCC00,"First Round",414335,40.49,No,Final/Certified,karefa-smart.jpg
+32107,32,1996-03-15,Presidential,"National Results",,,Karefa-Smart,John,UNPP,CCCC00,"Second Round",414335,40.49,No,Final/Certified,karefa-smart.jpg
+32092,7,2018-03-31,Presidential,"Regional Results",,South,Bio,Julius,SLPP,009900,"Second Round",388708,87.82,Yes,Provisional,julius-maada-bio.jpg
+32089,6,2018-03-31,Presidential,"Regional Results",,North,Kamara,Samura,APC,FF333C,"Second Round",350278,82.79,Yes,Provisional,dr-samura-matthew-wilson-kamara.jpg
+31251,7,2012-11-17,Presidential,"Regional Results",,South,Bio,Julius,SLPP,009900,"First Round",344399,74.45,Yes,Final/Certified,julius-maada-bio.jpg
+29230,7,2018-03-07,Presidential,"Regional Results",,East,Bio,Julius,SLPP,009900,"First Round",336659,66.20,No,Final/Certified,julius-maada-bio.jpg
+32172,6,2018-03-31,Presidential,"District Results","Western Area Urban",West,Kamara,Samura,APC,FF333C,"Second Round",315764,60.98,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+5387,33,2012-11-17,Presidential,"District Results","Western Area Urban",West,"Bai Koroma",Ernest,APC,FF333C,"First Round",315071,71.40,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+28822,6,2018-03-07,Presidential,"Regional Results",,North,Kamara,Samura,APC,FF333C,"First Round",309429,74.14,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31239,61,2007-08-11,Presidential,"Regional Results",,East,Berewa,Solomon,SLPP,009900,"First Round",296783,65.51,Yes,Final/Certified,solomon-berewa.jpg
+32091,6,2018-03-31,Presidential,"Regional Results",,"North West",Kamara,Samura,APC,FF333C,"Second Round",296664,81.71,Yes,Provisional,dr-samura-matthew-wilson-kamara.jpg
+28805,6,2018-03-07,Presidential,"District Results","Western Area Urban",West,Kamara,Samura,APC,FF333C,"First Round",294888,57.77,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32094,7,2018-03-31,Presidential,"Regional Results",,West,Bio,Julius,SLPP,009900,"Second Round",292216,39.52,No,Provisional,julius-maada-bio.jpg
+31255,7,2012-11-17,Presidential,"Regional Results",,East,Bio,Julius,SLPP,009900,"First Round",291740,66.04,Yes,Final/Certified,julius-maada-bio.jpg
+32117,33,2002-05-14,Presidential,"Regional Results",,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",289086,52.76,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+31246,33,2007-08-11,Presidential,"Regional Results",,West,"Bai Koroma",Ernest,APC,FF333C,"First Round",273172,61.29,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+7910,3737,1996-02-27,Presidential,"National Results",,,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",266893,35.80,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+1750,3737,2002-05-14,Presidential,"District Results",Kenema,East,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",259942,95.00,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+69,51,2007-08-11,Presidential,"National Results",,,Margai,Charles,PMDC,F3881E,"First Round",255499,13.90,No,Final/Certified,charles-francis-margai.jpg
+29234,7,2018-03-07,Presidential,"Regional Results",,West,Bio,Julius,SLPP,009900,"First Round",245728,33.56,No,Final/Certified,julius-maada-bio.jpg
+1714,3737,2002-05-14,Presidential,"District Results",Bo,South,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",241140,95.00,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+28825,6,2018-03-07,Presidential,"Regional Results",,"North West",Kamara,Samura,APC,FF333C,"First Round",230958,63.96,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31216,33,2007-08-11,Presidential,"District Results","Western Area Urban",West,"Bai Koroma",Ernest,APC,FF333C,"First Round",222260,60.54,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+32190,7,2018-03-31,Presidential,"District Results",Bo,South,Bio,Julius,SLPP,009900,"Second Round",219131,89.34,Yes,Final/Certified,julius-maada-bio.jpg
+32169,7,2018-03-31,Presidential,"District Results",Kenema,East,Bio,Julius,SLPP,009900,"Second Round",211232,88.55,Yes,Final/Certified,julius-maada-bio.jpg
+32086,7,2018-03-31,Presidential,"Regional Results",,East,Bio,Julius,SLPP,009900,"Second Round",210461,88.52,Yes,Provisional,julius-maada-bio.jpg
+29108,7,2018-03-07,Presidential,"District Results",Bo,South,Bio,Julius,SLPP,009900,"First Round",202453,83.70,No,Final/Certified,julius-maada-bio.jpg
+32173,7,2018-03-31,Presidential,"District Results","Western Area Urban",West,Bio,Julius,SLPP,009900,"Second Round",202046,39.02,No,Final/Certified,julius-maada-bio.jpg
+29099,7,2018-03-07,Presidential,"District Results",Kenema,East,Bio,Julius,SLPP,009900,"First Round",195402,83.81,Yes,Final/Certified,julius-maada-bio.jpg
+7905,33,2012-11-17,Presidential,"District Results","Port Loko",North,"Bai Koroma",Ernest,APC,FF333C,"First Round",182761,90.20,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+32123,3737,2002-05-14,Presidential,"Regional Results",,North,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",179634,32.78,No,Final/Certified,ahmad-tejan-kabbah.jpg
+1209,33,2012-11-17,Presidential,"District Results",Bombali,,"Bai Koroma",Ernest,APC,FF333C,"First Round",176023,93.20,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+28906,74,2018-03-07,Presidential,"National Results",,,Yumkella,Kandeh,NGC,4B0082,"First Round",174014,6.86,No,Final/Certified,dr-kandeh-yumkella.jpg
+31245,61,2007-08-11,Presidential,"Regional Results",,South,Berewa,Solomon,SLPP,009900,"First Round",171345,45.36,Yes,Final/Certified,solomon-berewa.jpg
+5342,7,2012-11-17,Presidential,"District Results",Bo,South,Bio,Julius,SLPP,009900,"First Round",169254,77.10,Yes,Final/Certified,julius-maada-bio.jpg
+29113,7,2018-03-07,Presidential,"District Results","Western Area Urban",West,Bio,Julius,SLPP,009900,"First Round",168902,33.09,No,Final/Certified,julius-maada-bio.jpg
+7911,32,1996-02-27,Presidential,"National Results",,,Karefa-Smart,John,UNPP,CCCC00,"First Round",168666,22.62,No,Final/Certified,karefa-smart.jpg
+32141,3737,2002-05-14,Presidential,"Regional Results",,West,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",166194,54.86,No,Final/Certified,ahmad-tejan-kabbah.jpg
+5279,7,2012-11-17,Presidential,"District Results",Kenema,East,Bio,Julius,SLPP,009900,"First Round",163303,77.90,,Final/Certified,julius-maada-bio.jpg
+32259,32247,2007-08-11,Presidential,"Regional Results",,South,Margai,Charles,PMDC,F3881E,"First Round",155844,41.26,No,Final/Certified,male-blank-profile-photo.png
+32178,6,2018-03-31,Presidential,"District Results","Port Loko","North West",Kamara,Samura,APC,FF333C,"Second Round",153608,85.01,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31249,7,2012-11-17,Presidential,"Regional Results",,West,Bio,Julius,SLPP,009900,"First Round",152520,26.41,No,Final/Certified,julius-maada-bio.jpg
+7906,33,2012-11-17,Presidential,"District Results",Tonkolili,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",145479,92.60,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+32183,6,2018-03-31,Presidential,"District Results",Bombali,North,Kamara,Samura,APC,FF333C,"Second Round",144056,90.68,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32189,6,2018-03-31,Presidential,"District Results",Tonkolili,North,Kamara,Samura,APC,FF333C,"Second Round",143500,86.32,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31247,61,2007-08-11,Presidential,"Regional Results",,West,Berewa,Solomon,SLPP,009900,"First Round",139378,31.27,No,Final/Certified,solomon-berewa.jpg
+28774,6,2018-03-07,Presidential,"District Results",Bombali,North,Kamara,Samura,APC,FF333C,"First Round",133640,86.23,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31254,33,2012-11-17,Presidential,"Regional Results",,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",132749,30.05,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32175,6,2018-03-31,Presidential,"District Results","Western Area Rural",West,Kamara,Samura,APC,FF333C,"Second Round",131433,59.31,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31187,61,2007-08-11,Presidential,"District Results",Kenema,East,Berewa,Solomon,SLPP,009900,"First Round",123811,63.03,Yes,Final/Certified,solomon-berewa.jpg
+28799,6,2018-03-07,Presidential,"District Results","Western Area Rural",West,Kamara,Samura,APC,FF333C,"First Round",123765,55.82,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+28795,6,2018-03-07,Presidential,"District Results","Port Loko","North West",Kamara,Samura,APC,FF333C,"First Round",123578,71.33,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+28786,6,2018-03-07,Presidential,"District Results",Tonkolili,North,Kamara,Samura,APC,FF333C,"First Round",122106,76.65,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31201,33,2007-08-11,Presidential,"District Results",Bombali,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",121715,83.86,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+5394,7,2012-11-17,Presidential,"District Results","Western Area Urban","North West",Bio,Julius,SLPP,009900,"First Round",120646,27.30,,Final/Certified,julius-maada-bio.jpg
+864,7912,1996-02-27,Presidential,"National Results",,,Bangura,Thaimu,PDP,1E90FF,"First Round",119782,16.07,No,Final/Certified,thaimu-bangura.jpg
+32167,7,2018-03-31,Presidential,"District Results",Kailahun,East,Bio,Julius,SLPP,009900,"Second Round",119502,89.96,Yes,Final/Certified,julius-maada-bio.jpg
+1732,3737,2002-05-14,Presidential,"District Results",Pujehun,South,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",117830,99.40,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+31217,61,2007-08-11,Presidential,"District Results","Western Area Urban",West,Berewa,Solomon,SLPP,009900,"First Round",117622,32.04,No,Final/Certified,solomon-berewa.jpg
+31210,33,2007-08-11,Presidential,"District Results","Port Loko",North,"Bai Koroma",Ernest,APC,FF333C,"First Round",116131,78.65,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+29098,7,2018-03-07,Presidential,"District Results",Kailahun,East,Bio,Julius,SLPP,009900,"First Round",111239,81.86,No,Final/Certified,julius-maada-bio.jpg
+1768,3737,2002-05-14,Presidential,"District Results",Kailahun,East,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",105223,89.20,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+1723,3737,2002-05-14,Presidential,"District Results",Moyamba,South,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",104387,90.40,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+31185,61,2007-08-11,Presidential,"District Results",Kailahun,East,Berewa,Solomon,SLPP,009900,"First Round",102174,77.09,Yes,Final/Certified,solomon-berewa.jpg
+32135,33,2002-05-14,Presidential,"Regional Results",,West,"Bai Koroma",Ernest,APC,FF333C,"First Round",101613,33.54,No,Final/Certified,Ernest-Bai-Koroma.jpg
+7909,33,2012-11-17,Presidential,"District Results","Western Area Rural",West,"Bai Koroma",Ernest,APC,FF333C,"First Round",101409,74.30,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+31243,61,2007-08-11,Presidential,"Regional Results",,North,Berewa,Solomon,SLPP,009900,"First Round",96506,17.15,No,Final/Certified,solomon-berewa.jpg
+31214,33,2007-08-11,Presidential,"District Results",Tonkolili,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",96498,82.24,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+32196,7,2018-03-31,Presidential,"District Results",Moyamba,South,Bio,Julius,SLPP,009900,"Second Round",96456,82.09,Yes,Final/Certified,julius-maada-bio.jpg
+32147,3737,2002-05-14,Presidential,"District Results","Western Area Rural",West,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",93419,53.35,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+1759,3737,2002-05-14,Presidential,"District Results",Kono,East,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",93210,87.00,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+32171,7,2018-03-31,Presidential,"District Results",Kono,East,Bio,Julius,SLPP,009900,"Second Round",91823,72.61,Yes,Final/Certified,julius-maada-bio.jpg
+32174,7,2018-03-31,Presidential,"District Results","Western Area Rural",West,Bio,Julius,SLPP,009900,"Second Round",90170,40.69,No,Final/Certified,julius-maada-bio.jpg
+1676,33,2002-05-14,Presidential,"District Results",Tonkolili,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",89705,67.40,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+31232,61,2007-08-11,Presidential,"District Results",Bo,South,Berewa,Solomon,SLPP,009900,"First Round",89383,49.72,Yes,Final/Certified,solomon-berewa.jpg
+7904,33,2012-11-17,Presidential,"District Results",Koinadugu,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",89282,86.40,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+7903,33,2012-11-17,Presidential,"District Results",Kambia,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",88597,82.00,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+28910,7879,2018-03-07,Presidential,"National Results",,,Sam-Sumana,Samuel,C4C,D68910,"First Round",87720,3.46,No,Final/Certified,samuel-sam-sumana.jpg
+1624,33,2002-05-14,Presidential,"District Results",Bombali,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",87713,65.10,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+29110,7,2018-03-07,Presidential,"District Results",Moyamba,South,Bio,Julius,SLPP,009900,"First Round",85686,73.50,Yes,Final/Certified,julius-maada-bio.jpg
+5269,7,2012-11-17,Presidential,"District Results",Kailahun,East,Bio,Julius,SLPP,009900,"First Round",85525,73.30,,Final/Certified,julius-maada-bio.jpg
+31250,33,2012-11-17,Presidential,"Regional Results",,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",83510,18.05,No,Final/Certified,Ernest-Bai-Koroma.jpg
+29112,7,2018-03-07,Presidential,"District Results","Western Area Rural",West,Bio,Julius,SLPP,009900,"First Round",76826,34.65,No,Final/Certified,julius-maada-bio.jpg
+32192,7,2018-03-31,Presidential,"District Results",Bonthe,South,Bio,Julius,SLPP,009900,"Second Round",76119,95.24,Yes,Final/Certified,julius-maada-bio.jpg
+31238,33,2007-08-11,Presidential,"Regional Results",,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",74200,16.38,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32180,6,2018-03-31,Presidential,"District Results",Karene,"North West",Kamara,Samura,APC,FF333C,"Second Round",73514,88.94,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32194,7,2018-03-31,Presidential,"District Results",Pujehun,South,Bio,Julius,SLPP,009900,"Second Round",73121,91.61,Yes,Final/Certified,julius-maada-bio.jpg
+32088,7,2018-03-31,Presidential,"Regional Results",,North,Bio,Julius,SLPP,009900,"Second Round",72796,17.21,No,Provisional,julius-maada-bio.jpg
+32145,3737,2002-05-14,Presidential,"District Results","Western Area Urban",West,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",72775,56.92,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+29167,7879,2018-03-07,Presidential,"Regional Results",,East,Sam-Sumana,Samuel,C4C,D68910,"First Round",72516,14.26,No,Final/Certified,samuel-sam-sumana.jpg
+29179,74,2018-03-07,Presidential,"Regional Results",,"North West",Yumkella,Kandeh,NGC,4B0082,"First Round",72196,19.99,No,Provisional,dr-kandeh-yumkella.jpg
+5363,7,2012-11-17,Presidential,"District Results",Moyamba,South,Bio,Julius,SLPP,009900,"First Round",71587,65.29,,Final/Certified,julius-maada-bio.jpg
+31198,61,2007-08-11,Presidential,"District Results",Kono,East,Berewa,Solomon,SLPP,009900,"First Round",70798,57.06,Yes,Final/Certified,solomon-berewa.jpg
+28956,7879,2018-03-07,Presidential,"District Results",Kono,East,Sam-Sumana,Samuel,C4C,D68910,"First Round",70565,50.58,No,Final/Certified,samuel-sam-sumana.jpg
+29111,7,2018-03-07,Presidential,"District Results",Pujehun,South,Bio,Julius,SLPP,009900,"First Round",70528,86.13,No,Final/Certified,julius-maada-bio.jpg
+1636,33,2002-05-14,Presidential,"District Results","Port Loko",North,"Bai Koroma",Ernest,APC,FF333C,"First Round",70447,57.60,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+29109,7,2018-03-07,Presidential,"District Results",Bonthe,South,Bio,Julius,SLPP,009900,"First Round",69729,89.85,No,Final/Certified,julius-maada-bio.jpg
+32176,6,2018-03-31,Presidential,"District Results",Kambia,"North West",Kamara,Samura,APC,FF333C,"Second Round",69542,69.75,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+1741,3737,2002-05-14,Presidential,"District Results",Bonthe,South,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",68863,99.20,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+28818,6,2018-03-07,Presidential,"Regional Results",,East,Kamara,Samura,APC,FF333C,"First Round",67984,13.37,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+7902,33,2012-11-17,Presidential,"District Results",Kono,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",67238,58.20,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+32254,32247,2007-08-11,Presidential,"Regional Results",,,Margai,Charles,PMDC,F3881E,"First Round",66918,14.77,No,Final/Certified,male-blank-profile-photo.png
+32248,32247,2007-08-11,Presidential,"Regional Results",,East,Margai,Charles,PMDC,F3881E,"First Round",66918,14.77,No,Final/Certified,male-blank-profile-photo.png
+32317,32247,2007-08-11,Presidential,"District Results",Bo,South,Margai,Charles,PMDC,F3881E,"First Round",66770,37.14,No,Final/Certified,male-blank-profile-photo.png
+32090,7,2018-03-31,Presidential,"Regional Results",,"North West",Bio,Julius,SLPP,009900,"Second Round",66385,18.29,No,Provisional,julius-maada-bio.jpg
+32146,33,2002-05-14,Presidential,"District Results","Western Area Rural",West,"Bai Koroma",Ernest,APC,FF333C,"First Round",65702,37.52,No,Provisional,Ernest-Bai-Koroma.jpg
+28790,6,2018-03-07,Presidential,"District Results",Karene,"North West",Kamara,Samura,APC,FF333C,"First Round",65045,81.15,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+28829,6,2018-03-07,Presidential,"Regional Results",,South,Kamara,Samura,APC,FF333C,"First Round",55724,10.76,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31203,33,2007-08-11,Presidential,"District Results",Kambia,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",55525,68.24,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+43,34,2002-05-14,Presidential,"National Results",,,Koroma,"Johnny Paul",PLP,F08080,"First Round",54974,3.00,No,Final/Certified,
+32093,6,2018-03-31,Presidential,"Regional Results",,South,Kamara,Samura,APC,FF333C,"Second Round",53891,12.18,No,Provisional,dr-samura-matthew-wilson-kamara.jpg
+29231,7,2018-03-07,Presidential,"Regional Results",,North,Bio,Julius,SLPP,009900,"First Round",53086,12.72,No,Final/Certified,julius-maada-bio.jpg
+5352,7,2012-11-17,Presidential,"District Results",Bonthe,South,Bio,Julius,SLPP,009900,"First Round",52762,80.60,,Final/Certified,julius-maada-bio.jpg
+31218,33,2007-08-11,Presidential,"District Results","Western Area Rural",West,"Bai Koroma",Ernest,APC,FF333C,"First Round",50912,64.78,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+1670,3737,2002-05-14,Presidential,"District Results",Koinadugu,North,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",50828,67.00,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+5374,7,2012-11-17,Presidential,"District Results",Pujehun,South,Bio,Julius,SLPP,009900,"First Round",50796,74.70,,Final/Certified,julius-maada-bio.jpg
+1705,3737,2002-05-14,Presidential,"District Results",Kambia,North,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",49107,60.10,Yes,Final/Certified,ahmad-tejan-kabbah.jpg
+31253,7,2012-11-17,Presidential,"Regional Results",,North,Bio,Julius,SLPP,009900,"First Round",48858,6.43,No,Final/Certified,julius-maada-bio.jpg
+29181,74,2018-03-07,Presidential,"Regional Results",,West,Yumkella,Kandeh,NGC,4B0082,"First Round",48590,6.64,No,Final/Certified,dr-kandeh-yumkella.jpg
+28993,74,2018-03-07,Presidential,"District Results",Kambia,"North West",Yumkella,Kandeh,NGC,4B0082,"First Round",46567,43.23,Yes,Final/Certified,dr-kandeh-yumkella.jpg
+31188,33,2007-08-11,Presidential,"District Results",Kono,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",43556,35.10,No,Final/Certified,Ernest-Bai-Koroma.jpg
+5288,7,2012-11-17,Presidential,"District Results",Kono,East,Bio,Julius,SLPP,009900,"First Round",42912,37.10,,Final/Certified,julius-maada-bio.jpg
+32310,32247,2007-08-11,Presidential,"District Results",Kenema,East,Margai,Charles,PMDC,F3881E,"First Round",42394,21.58,No,Final/Certified,male-blank-profile-photo.png
+28788,6,2018-03-07,Presidential,"District Results",Kambia,"North West",Kamara,Samura,APC,FF333C,"First Round",42335,39.30,No,Provisional,dr-samura-matthew-wilson-kamara.jpg
+31207,33,2007-08-11,Presidential,"District Results",Koinadugu,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",42027,59.00,Yes,Final/Certified,Ernest-Bai-Koroma.jpg
+32185,6,2018-03-31,Presidential,"District Results",Koinadugu,North,Kamara,Samura,APC,FF333C,"Second Round",40210,67.91,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+7914,7913,1996-02-27,Presidential,"National Results",,,Karimu,John,NUP,A9A9A9,"First Round",39617,5.31,No,Final/Certified,
+7901,33,2012-11-17,Presidential,"District Results",Kenema,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",39180,18.70,No,Final/Certified,Ernest-Bai-Koroma.jpg
+7919,7918,1996-02-27,Presidential,"National Results",,,Turay,Edward,APC,FF333C,"First Round",38316,5.14,No,Final/Certified,
+7921,7920,1996-02-27,Presidential,"National Results",,,Koroma,Abu,DCP,808080,"First Round",36779,4.93,No,Final/Certified,
+5336,,2012-11-17,Presidential,"District Results",Bo,South,,,,,"First Round",36575,16.70,,Final/Certified,
+7907,33,2012-11-17,Presidential,"District Results",Bo,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",36575,16.70,No,Final/Certified,Ernest-Bai-Koroma.jpg
+31244,33,2007-08-11,Presidential,"Regional Results",,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",36255,9.60,No,Final/Certified,Ernest-Bai-Koroma.jpg
+29001,74,2018-03-07,Presidential,"District Results","Western Area Urban",West,Yumkella,Kandeh,NGC,4B0082,"First Round",35950,7.04,No,Final/Certified,dr-kandeh-yumkella.jpg
+32144,33,2002-05-14,Presidential,"District Results","Western Area Urban",West,"Bai Koroma",Ernest,APC,FF333C,"First Round",35911,28.09,No,Final/Certified,Ernest-Bai-Koroma.jpg
+1642,30,2002-02-14,Presidential,"District Results",,,KABBA,"Ahmad Tejan",,,"First Round",35250,28.80,,Final/Certified,
+32163,3737,2002-05-14,Presidential,"District Results","Port Loko",North,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",35250,28.81,No,Final/Certified,ahmad-tejan-kabbah.jpg
+32170,6,2018-03-31,Presidential,"District Results",Kono,East,Kamara,Samura,APC,FF333C,"Second Round",34636,27.39,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+28783,6,2018-03-07,Presidential,"District Results",Koinadugu,North,Kamara,Samura,APC,FF333C,"First Round",33987,56.27,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+29232,7,2018-03-07,Presidential,"Regional Results",,"North West",Bio,Julius,SLPP,009900,"First Round",33613,9.31,No,Final/Certified,julius-maada-bio.jpg
+31222,61,2007-08-11,Presidential,"District Results",Pujehun,South,Berewa,Solomon,SLPP,009900,"First Round",33114,50.35,Yes,Final/Certified,solomon-berewa.jpg
+37,28,2002-05-14,Presidential,"National Results",,,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",33084,1.70,No,Final/Certified,pallo-bangura.jpg
+31227,61,2007-08-11,Presidential,"District Results",Moyamba,South,Berewa,Solomon,SLPP,009900,"First Round",32258,40.41,Yes,Final/Certified,solomon-berewa.jpg
+29178,74,2018-03-07,Presidential,"Regional Results",,North,Yumkella,Kandeh,NGC,4B0082,"First Round",32155,7.70,No,Final/Certified,dr-kandeh-yumkella.jpg
+32318,32247,2007-08-11,Presidential,"District Results",Bonthe,South,Margai,Charles,PMDC,F3881E,"First Round",31995,61.12,Yes,Final/Certified,male-blank-profile-photo.png
+5383,7,2012-11-17,Presidential,"District Results","Western Area Rural",West,Bio,Julius,SLPP,009900,"First Round",31874,23.40,,Final/Certified,julius-maada-bio.jpg
+32177,7,2018-03-31,Presidential,"District Results",Kambia,"North West",Bio,Julius,SLPP,009900,"Second Round",30155,30.25,No,Final/Certified,julius-maada-bio.jpg
+29100,7,2018-03-07,Presidential,"District Results",Kono,East,Bio,Julius,SLPP,009900,"First Round",30018,21.51,No,Final/Certified,julius-maada-bio.jpg
+60,51,2012-11-17,Presidential,"National Results",,,Margai,Charles,PMDC,F3881E,"First Round",28944,1.30,No,Final/Certified,charles-francis-margai.jpg
+5355,33,2012-11-17,Presidential,"District Results",Moyamba,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",28703,26.20,,Final/Certified,Ernest-Bai-Koroma.jpg
+32320,32247,2007-08-11,Presidential,"District Results",Pujehun,South,Margai,Charles,PMDC,F3881E,"First Round",28625,43.52,No,Final/Certified,male-blank-profile-photo.png
+70,36,2007-08-11,Presidential,"National Results",,,Turay,Andrew,YPP,D3D3D3,"First Round",28610,1.60,No,Final/Certified,
+32319,32247,2007-08-11,Presidential,"District Results",Moyamba,South,Margai,Charles,PMDC,F3881E,"First Round",28454,35.65,No,Final/Certified,male-blank-profile-photo.png
+28768,6,2018-03-07,Presidential,"District Results",Kono,East,Kamara,Samura,APC,FF333C,"First Round",28006,20.07,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32168,6,2018-03-31,Presidential,"District Results",Kenema,East,Kamara,Samura,APC,FF333C,"Second Round",27308,11.45,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32087,6,2018-03-31,Presidential,"Regional Results",,East,Kamara,Samura,APC,FF333C,"Second Round",27283,11.48,No,Provisional,dr-samura-matthew-wilson-kamara.jpg
+32179,7,2018-03-31,Presidential,"District Results","Port Loko","North West",Bio,Julius,SLPP,009900,"Second Round",27084,14.99,No,Final/Certified,julius-maada-bio.jpg
+28926,7878,2018-03-07,Presidential,"National Results",,,Mansaray,Mohamed,ADP,FF339F,"First Round",26704,1.05,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+1169,33,2012-11-17,Presidential,"District Results",Kailahun,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",26331,22.60,No,Provisional,Ernest-Bai-Koroma.jpg
+32191,6,2018-03-31,Presidential,"District Results",Bo,South,Kamara,Samura,APC,FF333C,"Second Round",26145,10.66,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32121,34,2002-05-14,Presidential,"Regional Results",,North,Koroma,"Johnny Paul",PLP,F08080,"First Round",25813,4.71,No,Final/Certified,
+28766,6,2018-03-07,Presidential,"District Results",Kenema,East,Kamara,Samura,APC,FF333C,"First Round",25727,11.04,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+28808,6,2018-03-07,Presidential,"District Results",Bo,South,Kamara,Samura,APC,FF333C,"First Round",24891,10.29,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32139,34,2002-05-14,Presidential,"Regional Results",,West,Koroma,"Johnny Paul",PLP,F08080,"First Round",24651,8.14,No,Final/Certified,
+31209,61,2007-08-11,Presidential,"District Results",Koinadugu,North,Berewa,Solomon,SLPP,009900,"First Round",23719,33.30,No,Final/Certified,solomon-berewa.jpg
+31186,33,2007-08-11,Presidential,"District Results",Kenema,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",23647,12.04,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32264,32247,2007-08-11,Presidential,"Regional Results",,West,Margai,Charles,PMDC,F3881E,"First Round",23555,5.28,No,Final/Certified,male-blank-profile-photo.png
+1627,3737,2002-05-14,Presidential,"District Results",Bombali,North,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",22918,17.00,No,Final/Certified,ahmad-tejan-kabbah.jpg
+55,47,2012-11-17,Presidential,"National Results",,,Carew,"Joshua Albert",CDP,F1C40F,"First Round",22863,1.00,No,Final/Certified,Joshua-Carew-312x240.jpg
+1699,33,2002-05-14,Presidential,"District Results",Kambia,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",22838,28.00,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32188,7,2018-03-31,Presidential,"District Results",Tonkolili,North,Bio,Julius,SLPP,009900,"Second Round",22748,13.68,No,Final/Certified,julius-maada-bio.jpg
+31213,61,2007-08-11,Presidential,"District Results","Port Loko",North,Berewa,Solomon,SLPP,009900,"First Round",22649,15.34,No,Final/Certified,solomon-berewa.jpg
+32187,6,2018-03-31,Presidential,"District Results",Falaba,North,Kamara,Samura,APC,FF333C,"Second Round",22562,57.23,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31219,61,2007-08-11,Presidential,"District Results","Western Area Rural",West,Berewa,Solomon,SLPP,009900,"First Round",21756,27.68,No,Provisional,solomon-berewa.jpg
+32097,32096,1996-02-27,Presidential,"National Results",,,Bundu,Abass,PPP,B0E0E6,"First Round",21557,2.89,No,Final/Certified,abass-bundu.jpg
+1694,3737,2002-05-14,Presidential,"District Results",Tonkolili,North,Kabbah,"Ahmad Tejan",SLPP,009900,"First Round",21531,16.20,No,Final/Certified,ahmad-tejan-kabbah.jpg
+32197,6,2018-03-31,Presidential,"District Results",Moyamba,South,Kamara,Samura,APC,FF333C,"Second Round",21045,17.91,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+28810,6,2018-03-07,Presidential,"District Results",Moyamba,South,Kamara,Samura,APC,FF333C,"First Round",20846,17.88,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+28995,74,2018-03-07,Presidential,"District Results","Port Loko","North West",Yumkella,Kandeh,NGC,4B0082,"First Round",20361,11.75,No,Final/Certified,dr-kandeh-yumkella.jpg
+32227,3962,2012-11-17,Presidential,"Regional Results",,South,Margai,Charles,PMDC,F3881E,"First Round",20157,4.36,No,Final/Certified,
+32322,32247,2007-08-11,Presidential,"District Results","Western Area Urban",West,Margai,Charles,PMDC,F3881E,"First Round",20082,5.47,No,Final/Certified,male-blank-profile-photo.png
+41,32,2002-05-14,Presidential,"National Results",,,Karefa-Smart,John,UNPP,CCCC00,"First Round",19847,1.00,No,Final/Certified,karefa-smart.jpg
+1634,32,2002-05-14,Presidential,"District Results",Bombali,North,Karefa-Smart,John,UNPP,CCCC00,"First Round",19847,1.04,No,Final/Certified,karefa-smart.jpg
+32309,32247,2007-08-11,Presidential,"District Results",Kailahun,East,Margai,Charles,PMDC,F3881E,"First Round",19721,14.88,No,Final/Certified,male-blank-profile-photo.png
+28779,6,2018-03-07,Presidential,"District Results",Falaba,North,Kamara,Samura,APC,FF333C,"First Round",19696,46.14,Yes,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+31206,61,2007-08-11,Presidential,"District Results",Kambia,North,Berewa,Solomon,SLPP,009900,"First Round",19498,23.96,No,Final/Certified,solomon-berewa.jpg
+32184,7,2018-03-31,Presidential,"District Results",Koinadugu,North,Bio,Julius,SLPP,009900,"Second Round",19004,32.09,No,Final/Certified,julius-maada-bio.jpg
+32109,33,2002-05-14,Presidential,"Regional Results",,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",18462,3.70,No,Final/Certified,Ernest-Bai-Koroma.jpg
+1645,33,2002-05-14,Presidential,"District Results",Koinadugu,North,"Bai Koroma",Ernest,APC,FF333C,"First Round",18383,24.20,No,Final/Certified,Ernest-Bai-Koroma.jpg
+31233,33,2007-08-11,Presidential,"District Results",Bo,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",18320,10.19,No,Final/Certified,Ernest-Bai-Koroma.jpg
+66,62,2007-08-11,Presidential,"National Results",,,Jalloh,Amadu,,,"First Round",17748,1.00,No,Final/Certified,
+7915,62,1996-02-27,Presidential,"National Results",,,Jalloh,Amadu,,,"First Round",17335,2.33,No,Final/Certified,
+32122,28,2002-05-14,Presidential,"Regional Results",,North,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",17315,3.16,No,Final/Certified,pallo-bangura.jpg
+32126,33,2002-05-14,Presidential,"Regional Results",,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",17244,3.09,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32186,7,2018-03-31,Presidential,"District Results",Falaba,North,Bio,Julius,SLPP,009900,"Second Round",16862,42.77,No,Final/Certified,julius-maada-bio.jpg
+31231,61,2007-08-11,Presidential,"District Results",Bonthe,South,Berewa,Solomon,SLPP,009900,"First Round",16590,31.69,No,Final/Certified,solomon-berewa.jpg
+29107,7,2018-03-07,Presidential,"District Results","Port Loko","North West",Bio,Julius,SLPP,009900,"First Round",16184,9.34,No,Final/Certified,julius-maada-bio.jpg
+32158,34,2002-05-14,Presidential,"District Results","Western Area Urban",West,Koroma,"Johnny Paul",PLP,F08080,"First Round",15899,12.44,No,Final/Certified,
+7917,7916,1996-02-27,Presidential,"National Results",,,Kargbo,Edward,PNC,808080,"First Round",15798,2.12,No,Final/Certified,
+29104,7,2018-03-07,Presidential,"District Results",Tonkolili,North,Bio,Julius,SLPP,009900,"First Round",15545,9.76,No,Final/Certified,julius-maada-bio.jpg
+31202,61,2007-08-11,Presidential,"District Results",Bombali,North,Berewa,Solomon,SLPP,009900,"First Round",15342,10.57,No,Final/Certified,solomon-berewa.jpg
+31215,61,2007-08-11,Presidential,"District Results",Tonkolili,North,Berewa,Solomon,SLPP,009900,"First Round",15298,13.04,No,Final/Certified,solomon-berewa.jpg
+32182,7,2018-03-31,Presidential,"District Results",Bombali,North,Bio,Julius,SLPP,009900,"Second Round",14807,9.32,No,Final/Certified,julius-maada-bio.jpg
+31226,33,2007-08-11,Presidential,"District Results",Moyamba,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",14448,18.10,No,Final/Certified,Ernest-Bai-Koroma.jpg
+28764,6,2018-03-07,Presidential,"District Results",Kailahun,East,Kamara,Samura,APC,FF333C,"First Round",14251,10.49,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+5306,7,2012-11-17,Presidential,"District Results",Kambia,North,Bio,Julius,SLPP,009900,"First Round",14083,13.00,,Final/Certified,julius-maada-bio.jpg
+32251,32241,2007-08-11,Presidential,"Regional Results",,North,Turay,Andrew,CPP,808080,"First Round",14039,2.49,No,Final/Certified,male-blank-profile-photo.png
+32166,6,2018-03-31,Presidential,"District Results",Kailahun,East,Kamara,Samura,APC,FF333C,"Second Round",13343,10.04,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32222,47,2012-11-17,Presidential,"Regional Results",,North,Carew,"Joshua Albert",CDP,F1C40F,"First Round",13331,1.75,No,Final/Certified,Joshua-Carew-312x240.jpg
+29101,7,2018-03-07,Presidential,"District Results",Bombali,North,Bio,Julius,SLPP,009900,"First Round",13153,8.49,No,Final/Certified,julius-maada-bio.jpg
+32124,32,2002-05-14,Presidential,"Regional Results",,North,Karefa-Smart,John,UNPP,CCCC00,"First Round",13125,2.40,No,Final/Certified,karefa-smart.jpg
+56,48,2012-11-17,Presidential,"National Results",,,Collins,Eldred,RUFP,996633,"First Round",12993,0.60,No,Final/Certified,Eldred-Collins.jpg
+28950,7886,2018-03-07,Presidential,"National Results",,,Ngobeh,Gbandi,RUFP,996633,"First Round",12827,0.51,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+29103,7,2018-03-07,Presidential,"District Results",Koinadugu,North,Bio,Julius,SLPP,009900,"First Round",12789,21.17,No,Final/Certified,julius-maada-bio.jpg
+28992,74,2018-03-07,Presidential,"District Results",Tonkolili,North,Yumkella,Kandeh,NGC,4B0082,"First Round",12703,7.97,No,Final/Certified,dr-kandeh-yumkella.jpg
+29000,74,2018-03-07,Presidential,"District Results","Western Area Rural","North West",Yumkella,Kandeh,NGC,4B0082,"First Round",12640,5.70,No,Final/Certified,dr-kandeh-yumkella.jpg
+32114,28,2002-05-14,Presidential,"Regional Results",,East,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",11834,2.37,No,Final/Certified,pallo-bangura.jpg
+29102,7,2018-03-07,Presidential,"District Results",Falaba,North,Bio,Julius,SLPP,009900,"First Round",11599,27.17,No,Final/Certified,julius-maada-bio.jpg
+28927,7880,2018-03-07,Presidential,"National Results",,,Tarawally,Musa,CDP,F1C40F,"First Round",11493,0.45,No,Final/Certified,musa-tarawally.jpg
+5324,7,2012-11-17,Presidential,"District Results","Port Loko",North,Bio,Julius,SLPP,009900,"First Round",11329,5.60,,Final/Certified,julius-maada-bio.jpg
+40,31,2002-05-14,Presidential,"National Results",,,Kamara,Raymond,GAP,FFA07A,"First Round",11181,0.60,No,Final/Certified,
+29105,7,2018-03-07,Presidential,"District Results",Kambia,"North West",Bio,Julius,SLPP,009900,"First Round",10973,10.19,No,Final/Certified,julius-maada-bio.jpg
+29180,74,2018-03-07,Presidential,"Regional Results",,South,Yumkella,Kandeh,NGC,4B0082,"First Round",10849,2.09,No,Final/Certified,dr-kandeh-yumkella.jpg
+5367,,2012-11-17,Presidential,"District Results",Pujehun,South,,,,,"First Round",10565,15.50,,Final/Certified,
+7908,33,2012-11-17,Presidential,"District Results",Pujehun,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",10565,15.50,No,Final/Certified,Ernest-Bai-Koroma.jpg
+65,49,2007-08-11,Presidential,"National Results",,,Conteh,"Kandeh Baba",PLP,F08080,"First Round",10556,0.60,No,Final/Certified,
+38,29,2002-05-14,Presidential,"National Results",,,Bangura,Zainab,MOP,808080,"First Round",10406,0.50,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+29177,74,2018-03-07,Presidential,"Regional Results",,East,Yumkella,Kandeh,NGC,4B0082,"First Round",10224,2.01,No,Final/Certified,dr-kandeh-yumkella.jpg
+1631,34,2002-05-14,Presidential,"District Results",Bombali,North,Koroma,"Johnny Paul",PLP,F08080,"First Round",10136,7.50,No,Final/Certified,
+28944,51,2018-03-07,Presidential,"National Results",,,Margai,Charles,PMDC,F3881E,"First Round",9864,0.39,No,Final/Certified,charles-francis-margai.jpg
+1708,33,2002-05-14,Presidential,"District Results",Bo,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",9746,3.30,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32266,32247,2007-08-11,Presidential,"Regional Results",,North,Margai,Charles,PMDC,F3881E,"First Round",9182,1.63,No,Final/Certified,male-blank-profile-photo.png
+32181,7,2018-03-31,Presidential,"District Results",Karene,"North West",Bio,Julius,SLPP,009900,"Second Round",9146,11.06,No,Final/Certified,julius-maada-bio.jpg
+28919,7878,2018-03-07,Presidential,"Regional Results",,"North West",Mansaray,Mohamed,ADP,FF339F,"First Round",9059,2.51,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+44,35,2002-05-14,Presidential,"National Results",,,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",9028,0.40,No,Provisional,
+1744,33,2002-05-14,Presidential,"District Results",Kenema,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",9023,3.30,No,Final/Certified,Ernest-Bai-Koroma.jpg
+5340,51,2012-11-17,Presidential,"District Results",Bo,South,Margai,Charles,PMDC,F3881E,"First Round",8931,4.10,No,Final/Certified,charles-francis-margai.jpg
+28991,74,2018-03-07,Presidential,"District Results",Koinadugu,North,Yumkella,Kandeh,NGC,4B0082,"First Round",8915,14.76,No,Final/Certified,dr-kandeh-yumkella.jpg
+32151,34,2002-05-14,Presidential,"District Results","Western Area Rural",West,Koroma,"Johnny Paul",PLP,F08080,"First Round",8752,5.00,No,Final/Certified,
+1767,28,2002-05-14,Presidential,"District Results",Kailahun,East,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",8665,7.30,No,Final/Certified,pallo-bangura.jpg
+1753,33,2002-05-14,Presidential,"District Results",Kono,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",8662,8.10,No,Final/Certified,Ernest-Bai-Koroma.jpg
+28932,7881,2018-03-07,Presidential,"National Results",,,Bah,Mohamed,NDA,1F681B,"First Round",8344,0.33,No,Final/Certified,mohamed-c-bah.jpg
+5315,7,2012-11-17,Presidential,"District Results",Koinadugu,North,Bio,Julius,SLPP,009900,"First Round",8333,8.10,,Final/Certified,julius-maada-bio.jpg
+58,50,2012-11-17,Presidential,"National Results",,,Kamara,Gibrilla,PDP,1E90FF,"First Round",8273,0.40,,,
+5297,7,2012-11-17,Presidential,"District Results",Bombali,North,Bio,Julius,SLPP,009900,"First Round",8249,4.40,No,Final/Certified,julius-maada-bio.jpg
+32119,31,2002-05-14,Presidential,"Regional Results",,North,Kamara,Raymond,GAP,FFA07A,"First Round",8046,1.47,No,Final/Certified,
+32105,32104,1996-02-27,Presidential,"National Results",,,Luke,Desmond,NUM,808080,"First Round",7918,1.06,No,Final/Certified,desmond-luke.jpg
+28918,7878,2018-03-07,Presidential,"Regional Results",,North,Mansaray,Mohamed,ADP,FF339F,"First Round",7752,1.86,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+29171,7879,2018-03-07,Presidential,"Regional Results",,West,Sam-Sumana,Samuel,C4C,D68910,"First Round",7691,1.05,No,Final/Certified,samuel-sam-sumana.jpg
+5345,33,2012-11-17,Presidential,"District Results",Bonthe,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",7667,11.70,,Final/Certified,Ernest-Bai-Koroma.jpg
+1696,32,2002-05-14,Presidential,"District Results",Tonkolili,North,Karefa-Smart,John,UNPP,CCCC00,"First Round",7317,5.50,No,Final/Certified,karefa-smart.jpg
+67,63,2007-08-11,Presidential,"National Results",,,Karim,"Abdul Kady",,,"First Round",7260,0.40,No,Final/Certified,
+1717,33,2002-05-14,Presidential,"District Results",Moyamba,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",7241,6.20,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32118,35,2002-05-14,Presidential,"Regional Results",,North,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",7014,1.28,No,Final/Certified,
+31184,33,2007-08-11,Presidential,"District Results",Kailahun,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",6997,5.28,No,Final/Certified,Ernest-Bai-Koroma.jpg
+28923,7878,2018-03-07,Presidential,"District Results",,"North West",Mansaray,Mohamed,ADP,FF339F,"First Round",6937,2.42,No,Provisional,mohamed-kamaraimba-mansaray.jpg
+28990,74,2018-03-07,Presidential,"District Results",Falaba,North,Yumkella,Kandeh,NGC,4B0082,"First Round",6897,16.16,No,Final/Certified,dr-kandeh-yumkella.jpg
+5333,7,2012-11-17,Presidential,"District Results",Tonkolili,North,Bio,Julius,SLPP,009900,"First Round",6864,4.40,,Final/Certified,julius-maada-bio.jpg
+28996,74,2018-03-07,Presidential,"District Results",Bo,South,Yumkella,Kandeh,NGC,4B0082,"First Round",6721,2.78,No,Final/Certified,dr-kandeh-yumkella.jpg
+32195,6,2018-03-31,Presidential,"District Results",Pujehun,South,Kamara,Samura,APC,FF333C,"Second Round",6701,8.39,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+29200,51,2018-03-07,Presidential,"Regional Results",,South,Margai,Charles,PMDC,F3881E,"First Round",6612,1.28,No,Final/Certified,charles-francis-margai.jpg
+1692,28,2002-05-14,Presidential,"District Results",Tonkolili,North,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",6595,4.90,No,Final/Certified,pallo-bangura.jpg
+29106,7,2018-03-07,Presidential,"District Results",Karene,"North West",Bio,Julius,SLPP,009900,"First Round",6456,8.05,No,Final/Certified,julius-maada-bio.jpg
+28811,6,2018-03-07,Presidential,"District Results",Pujehun,South,Kamara,Samura,APC,FF333C,"First Round",6429,7.85,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+5400,49,2012-11-17,Presidential,"National Results",,,Conteh,"Kandeh Baba",PLP,F08080,"First Round",6144,0.30,,Final/Certified,
+1633,28,2002-05-14,Presidential,"District Results",Bombali,North,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",6104,4.50,No,Final/Certified,pallo-bangura.jpg
+28909,7878,2018-03-07,Presidential,"District Results","Port Loko","North West",Mansaray,Mohamed,ADP,FF339F,"First Round",6077,3.51,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32242,32241,2007-08-11,Presidential,"Regional Results",,East,Turay,Andrew,CPP,808080,"First Round",6054,1.34,No,Final/Certified,male-blank-profile-photo.png
+28922,7878,2018-03-07,Presidential,"District Results",,North,Mansaray,Mohamed,ADP,FF339F,"First Round",5838,1.82,No,Provisional,mohamed-kamaraimba-mansaray.jpg
+28951,7887,2018-03-07,Presidential,"National Results",,,Sowa,Mohamed,UDM,9900cc,"First Round",5695,0.22,No,Final/Certified,mohamed-turay-sowa.png
+32120,29,2002-05-14,Presidential,"Regional Results",,North,Bangura,Zainab,MOP,808080,"First Round",5490,1.00,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+28994,74,2018-03-07,Presidential,"District Results",Karene,"North West",Yumkella,Kandeh,NGC,4B0082,"First Round",5268,6.57,No,Final/Certified,dr-kandeh-yumkella.jpg
+32103,32102,1996-02-27,Presidential,"National Results",,,Lungay,Andrew,SDP,2F4F4F,"First Round",5202,0.70,No,Final/Certified,andrew-victorl-lungay.JPG
+32113,34,2002-05-14,Presidential,"Regional Results",,East,Koroma,"Johnny Paul",PLP,F08080,"First Round",5147,1.03,No,Final/Certified,
+53,46,2012-11-17,Presidential,"National Results",,,Bangura,Mohamed,UDM,9900cc,"First Round",5069,0.20,No,Final/Certified,mohamed-bangura.jpg
+32228,48,2012-11-17,Presidential,"Regional Results",,South,Collins,Eldred,RUFP,996633,"First Round",5058,1.09,No,Final/Certified,Eldred-Collins.jpg
+5405,52,2012-11-17,Presidential,"National Results",,,Fullah,"James Obai",UNPP,CCCC00,"First Round",5044,0.20,,Final/Certified,
+32252,32243,2007-08-11,Presidential,"Regional Results",,North,Jalloh,Amadu,NDA,1F681B,"First Round",5019,0.89,No,Final/Certified,male-blank-profile-photo.png
+32256,32241,2007-08-11,Presidential,"Regional Results",,South,Turay,Andrew,CPP,808080,"First Round",4999,1.32,No,Final/Certified,male-blank-profile-photo.png
+32244,32243,2007-08-11,Presidential,"Regional Results",,East,Jalloh,Amadu,NDA,1F681B,"First Round",4963,1.10,No,Final/Certified,male-blank-profile-photo.png
+32311,32247,2007-08-11,Presidential,"District Results",Kono,East,Margai,Charles,PMDC,F3881E,"First Round",4803,3.87,No,Final/Certified,male-blank-profile-photo.png
+32214,48,2012-11-17,Presidential,"Regional Results",,East,Collins,Eldred,RUFP,996633,"First Round",4482,1.01,No,Final/Certified,Eldred-Collins.jpg
+29227,7886,2018-03-07,Presidential,"Regional Results",,South,Ngobeh,Gbandi,RUFP,996633,"First Round",4400,0.85,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+29217,7886,2018-03-07,Presidential,"Regional Results",,East,Ngobeh,Gbandi,RUFP,996633,"First Round",4396,0.86,No,Provisional,gbandi-jemba-ngobeh.jpg
+28987,74,2018-03-07,Presidential,"District Results",Kenema,East,Yumkella,Kandeh,NGC,4B0082,"First Round",4395,1.89,No,Final/Certified,dr-kandeh-yumkella.jpg
+28969,7879,2018-03-07,Presidential,"District Results","Western Area Urban",West,Sam-Sumana,Samuel,C4C,D68910,"First Round",4366,0.86,No,Final/Certified,samuel-sam-sumana.jpg
+5319,47,2012-11-17,Presidential,"District Results","Port Loko",North,Carew,"Joshua Albert",CDP,F1C40F,"First Round",4353,2.10,,Final/Certified,Joshua-Carew-312x240.jpg
+5372,51,2012-11-17,Presidential,"District Results",Pujehun,South,Margai,Charles,PMDC,F3881E,"First Round",4317,6.30,,Final/Certified,charles-francis-margai.jpg
+28935,7882,2018-03-07,Presidential,"National Results",,,O'Dwyer,Patrick,NPD,3498DB,"First Round",4239,0.17,No,Final/Certified,patrick-odwyer.jpg
+28935,7882,2018-03-07,Presidential,"National Results",,,O'Dwyer,Patrick,NPD,3498DB,"First Round",4239,0.17,No,Final/Certified,patrick-odwyer.jpg
+28941,7883,2018-03-07,Presidential,"National Results",,,Conteh,Kandeh,PLP,F08080,"First Round",4233,0.17,No,Final/Certified,dr-baba-kandeh.jpg
+5361,51,2012-11-17,Presidential,"District Results",Moyamba,South,Margai,Charles,PMDC,F3881E,"First Round",4106,3.70,,Final/Certified,charles-francis-margai.jpg
+32273,32241,2007-08-11,Presidential,"District Results","Port Loko",North,Turay,Andrew,CPP,808080,"First Round",4065,2.75,No,Final/Certified,male-blank-profile-photo.png
+32257,32243,2007-08-11,Presidential,"Regional Results",,South,Jalloh,Amadu,NDA,1F681B,"First Round",4003,1.06,No,Final/Certified,male-blank-profile-photo.png
+29187,7878,2018-03-07,Presidential,"Regional Results",,East,Mansaray,Mohamed,ADP,FF339F,"First Round",3995,0.79,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32258,32245,2007-08-11,Presidential,"Regional Results",,South,Conteh,Kandeh,PLP,F08080,"First Round",3983,1.05,No,Final/Certified,male-blank-profile-photo.png
+32229,47,2012-11-17,Presidential,"Regional Results",,South,Carew,"Joshua Albert",CDP,F1C40F,"First Round",3958,0.66,No,Final/Certified,Joshua-Carew-312x240.jpg
+32101,32100,1996-02-27,Presidential,"National Results",,,Turay,Andrew,NPP,808080,"First Round",3925,0.53,No,Final/Certified,male-blank-profile-photo.png
+32219,3962,2012-11-17,Presidential,"Regional Results",,East,Margai,Charles,PMDC,F3881E,"First Round",3890,0.88,No,Final/Certified,
+45,36,2002-05-14,Presidential,"National Results",,,Turay,Andrew,YPP,D3D3D3,"First Round",3859,0.20,No,Final/Certified,
+28953,7889,2018-03-07,Presidential,"National Results",,,Claudius-Cole,Olufemi,UP,99ccff,"First Round",3825,0.15,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+32193,6,2018-03-31,Presidential,"District Results",Bonthe,South,Kamara,Samura,APC,FF333C,"Second Round",3804,4.76,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32262,62,2007-08-11,Presidential,"Regional Results",,West,Jalloh,Amadu,,,"First Round",3763,0.84,No,Final/Certified,
+32099,32098,1996-02-27,Presidential,"National Results",,,Sillah,Mohamed,NADP,32CD32,"First Round",3723,0.50,No,Final/Certified,mohamed-yahya-sillah.jpg
+28921,7878,2018-03-07,Presidential,"Regional Results",,West,Mansaray,Mohamed,ADP,FF339F,"First Round",3664,0.50,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+28989,74,2018-03-07,Presidential,"District Results",Bombali,North,Yumkella,Kandeh,NGC,4B0082,"First Round",3640,2.35,No,Final/Certified,dr-kandeh-yumkella.jpg
+32224,50,2012-11-17,Presidential,"Regional Results",,North,Kamara,Gibrilla,PDP,1E90FF,"First Round",3611,0.48,No,Final/Certified,
+28809,6,2018-03-07,Presidential,"District Results",Bonthe,South,Kamara,Samura,APC,FF333C,"First Round",3558,4.58,No,Final/Certified,dr-samura-matthew-wilson-kamara.jpg
+32261,32241,2007-08-11,Presidential,"Regional Results",,West,Turay,Andrew,CPP,808080,"First Round",3518,0.79,No,Final/Certified,male-blank-profile-photo.png
+1665,34,2002-05-14,Presidential,"District Results",Koinadugu,North,Koroma,"Johnny Paul",PLP,F08080,"First Round",3479,4.60,No,Final/Certified,
+32321,32247,2007-08-11,Presidential,"District Results","Western Area Rural",West,Margai,Charles,PMDC,F3881E,"First Round",3473,4.42,No,Provisional,male-blank-profile-photo.png
+32165,47,2012-11-17,Presidential,"Regional Results",,East,Carew,"Joshua Albert",CDP,F1C40F,"First Round",3418,0.77,No,Final/Certified,Joshua-Carew-312x240.jpg
+28905,7878,2018-03-07,Presidential,"District Results",Tonkolili,North,Mansaray,Mohamed,ADP,FF339F,"First Round",3402,2.14,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+29168,7879,2018-03-07,Presidential,"Regional Results",,North,Sam-Sumana,Samuel,C4C,D68910,"First Round",3393,0.81,No,Final/Certified,samuel-sam-sumana.jpg
+28968,7879,2018-03-07,Presidential,"District Results","Western Area Rural",West,Sam-Sumana,Samuel,C4C,D68910,"First Round",3325,1.50,No,Final/Certified,samuel-sam-sumana.jpg
+32220,3962,2012-11-17,Presidential,"Regional Results",,North,Margai,Charles,PMDC,F3881E,"First Round",3270,0.43,No,Final/Certified,
+29164,7880,2018-03-07,Presidential,"Regional Results",,"North West",Tarawally,Musa,CDP,F1C40F,"First Round",3253,0.90,No,Final/Certified,musa-tarawally.jpg
+32294,32243,2007-08-11,Presidential,"District Results","Western Area Urban",West,Jalloh,Amadu,NDA,1F681B,"First Round",3144,0.86,No,Final/Certified,male-blank-profile-photo.png
+32255,32249,2007-08-11,Presidential,"Regional Results",,North,Karim,Abdul,UNPP,CCCC00,"First Round",3110,0.55,No,Final/Certified,
+32270,32241,2007-08-11,Presidential,"District Results",Bombali,North,Turay,Andrew,CPP,808080,"First Round",3087,2.13,No,Final/Certified,male-blank-profile-photo.png
+28988,74,2018-03-07,Presidential,"District Results",Kono,East,Yumkella,Kandeh,NGC,4B0082,"First Round",3071,2.20,No,Final/Certified,dr-kandeh-yumkella.jpg
+28952,7888,2018-03-07,Presidential,"National Results",,,Kabuta,Henry,UNPP,CCCC00,"First Round",3061,0.12,No,Final/Certified,henry-saa-kabuta.jpg
+32236,47,2012-11-17,Presidential,"Regional Results",,West,Carew,"Joshua Albert",CDP,F1C40F,"First Round",3056,0.53,No,Final/Certified,Joshua-Carew-312x240.jpg
+29163,7880,2018-03-07,Presidential,"Regional Results",,North,Tarawally,Musa,CDP,F1C40F,"First Round",3025,0.72,No,Final/Certified,musa-tarawally.jpg
+28917,7878,2018-03-07,Presidential,"District Results",,East,Mansaray,Mohamed,ADP,FF339F,"First Round",2980,0.76,No,Provisional,mohamed-kamaraimba-mansaray.jpg
+32253,32245,2007-08-11,Presidential,"Regional Results",,North,Conteh,Kandeh,PLP,F08080,"First Round",2973,0.53,No,Final/Certified,male-blank-profile-photo.png
+5349,51,2012-11-17,Presidential,"District Results",Bonthe,South,Margai,Charles,PMDC,F3881E,"First Round",2803,4.29,,Final/Certified,charles-francis-margai.jpg
+28925,7878,2018-03-07,Presidential,"District Results",,West,Mansaray,Mohamed,ADP,FF339F,"First Round",2774,0.50,No,Provisional,mohamed-kamaraimba-mansaray.jpg
+28986,74,2018-03-07,Presidential,"District Results",Kailahun,East,Yumkella,Kandeh,NGC,4B0082,"First Round",2758,2.03,No,Provisional,dr-kandeh-yumkella.jpg
+32312,32247,2007-08-11,Presidential,"District Results",Bombali,North,Margai,Charles,PMDC,F3881E,"First Round",2751,1.90,No,Final/Certified,male-blank-profile-photo.png
+28949,7885,2018-03-07,Presidential,"National Results",,,Williams,Beresford,ReNIP,343a40,"First Round",2555,0.10,No,Final/Certified,male-blank-profile-photo.png
+32282,32243,2007-08-11,Presidential,"District Results",Kenema,East,Jalloh,Amadu,NDA,1F681B,"First Round",2529,1.29,No,Final/Certified,male-blank-profile-photo.png
+32246,32245,2007-08-11,Presidential,"Regional Results",,East,Conteh,Kandeh,PLP,F08080,"First Round",2518,0.56,No,Final/Certified,male-blank-profile-photo.png
+5328,47,2012-11-17,Presidential,"District Results",Tonkolili,North,Carew,"Joshua Albert",CDP,F1C40F,"First Round",2510,1.53,,Final/Certified,Joshua-Carew-312x240.jpg
+32226,52,2012-11-17,Presidential,"Regional Results",,North,Fullah,"James Obai",UNPP,CCCC00,"First Round",2497,0.33,No,Final/Certified,
+29060,51,2018-03-07,Presidential,"District Results",Bo,South,Margai,Charles,PMDC,F3881E,"First Round",2482,1.03,No,Final/Certified,charles-francis-margai.jpg
+32140,28,2002-05-14,Presidential,"Regional Results",,West,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",2429,0.80,No,Final/Certified,pallo-bangura.jpg
+32269,32241,2007-08-11,Presidential,"District Results",Kono,East,Turay,Andrew,CPP,808080,"First Round",2418,1.95,No,Final/Certified,male-blank-profile-photo.png
+32125,36,2002-05-14,Presidential,"Regional Results",,North,Turay,Andrew,YPP,D3D3D3,"First Round",2409,0.44,No,Final/Certified,
+1638,31,2002-05-14,Presidential,"District Results","Port Loko",North,Kamara,Raymond,GAP,FFA07A,"First Round",2373,1.90,No,Final/Certified,
+28998,74,2018-03-07,Presidential,"District Results",Moyamba,South,Yumkella,Kandeh,NGC,4B0082,"First Round",2372,2.03,No,Final/Certified,dr-kandeh-yumkella.jpg
+32138,29,2002-05-14,Presidential,"Regional Results",,West,Bangura,Zainab,MOP,808080,"First Round",2371,0.78,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+29169,7879,2018-03-07,Presidential,"Regional Results",,"North West",Sam-Sumana,Samuel,C4C,D68910,"First Round",2369,0.66,No,Final/Certified,samuel-sam-sumana.jpg
+32142,32,2002-05-14,Presidential,"Regional Results",,West,Karefa-Smart,John,UNPP,CCCC00,"First Round",2357,0.78,No,Final/Certified,karefa-smart.jpg
+32133,32,2002-05-14,Presidential,"Regional Results",,South,Karefa-Smart,John,UNPP,CCCC00,"First Round",2329,0.42,No,Final/Certified,karefa-smart.jpg
+5292,47,2012-11-17,Presidential,"District Results",Bombali,North,Carew,"Joshua Albert",CDP,F1C40F,"First Round",2323,1.20,No,Final/Certified,Joshua-Carew-312x240.jpg
+28938,,2018-03-07,Presidential,"National Results",,,,,,,"First Round",2318,0.10,No,Provisional,
+29760,7890,2018-03-07,Presidential,"National Results",,,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",2318,0.10,No,Final/Certified,"jonathan sandy.png"
+29235,7887,2018-03-07,Presidential,"Regional Results",,East,Sowa,Mohamed,UDM,9900cc,"First Round",2313,0.45,No,Final/Certified,mohamed-turay-sowa.png
+1683,31,2002-05-14,Presidential,"District Results",Tonkolili,North,Kamara,Raymond,GAP,FFA07A,"First Round",2303,1.70,No,Final/Certified,
+1689,34,2002-05-14,Presidential,"District Results",Tonkolili,North,Koroma,"Johnny Paul",PLP,F08080,"First Round",2287,1.70,No,Final/Certified,
+29162,7880,2018-03-07,Presidential,"Regional Results",,East,Tarawally,Musa,CDP,F1C40F,"First Round",2275,0.45,No,Final/Certified,musa-tarawally.jpg
+32280,32241,2007-08-11,Presidential,"District Results","Western Area Urban",West,Turay,Andrew,CPP,808080,"First Round",2268,0.62,No,Final/Certified,male-blank-profile-photo.png
+1766,34,2002-05-14,Presidential,"District Results",Kailahun,East,Koroma,"Johnny Paul",PLP,F08080,"First Round",2259,1.90,No,Final/Certified,
+28920,7878,2018-03-07,Presidential,"Regional Results",,South,Mansaray,Mohamed,ADP,FF339F,"First Round",2234,0.43,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32271,32241,2007-08-11,Presidential,"District Results",Kambia,North,Turay,Andrew,CPP,808080,"First Round",2203,2.71,No,Final/Certified,male-blank-profile-photo.png
+32203,51,2012-11-17,Presidential,"District Results",Kenema,East,Margai,Charles,PMDC,F3881E,"First Round",2200,1.00,No,Final/Certified,charles-francis-margai.jpg
+32268,62,2007-08-11,Presidential,"District Results",Kenema,East,Jalloh,Amadu,,,"First Round",2184,1.11,No,Final/Certified,
+32223,49,2012-11-17,Presidential,"Regional Results",,North,Conteh,"Kandeh Baba",PLP,F08080,"First Round",2163,0.28,No,Final/Certified,
+1749,28,2002-05-14,Presidential,"District Results",Kenema,East,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",2161,0.80,No,Final/Certified,pallo-bangura.jpg
+5301,47,2012-11-17,Presidential,"District Results",Kambia,North,Carew,"Joshua Albert",CDP,F1C40F,"First Round",2130,2.00,,Final/Certified,Joshua-Carew-312x240.jpg
+29062,51,2018-03-07,Presidential,"District Results",Moyamba,South,Margai,Charles,PMDC,F3881E,"First Round",2112,1.81,No,Final/Certified,charles-francis-margai.jpg
+1629,31,2002-05-14,Presidential,"District Results",Bombali,North,Kamara,Raymond,GAP,FFA07A,"First Round",2106,1.60,No,Final/Certified,
+32315,32247,2007-08-11,Presidential,"District Results","Port Loko",North,Margai,Charles,PMDC,F3881E,"First Round",2094,1.42,No,Final/Certified,male-blank-profile-photo.png
+32272,32241,2007-08-11,Presidential,"District Results",Koinadugu,North,Turay,Andrew,CPP,808080,"First Round",2087,2.93,No,Final/Certified,male-blank-profile-photo.png
+29172,7881,2018-03-07,Presidential,"Regional Results",,East,Bah,Mohamed,NDA,1F681B,"First Round",2057,0.40,No,Final/Certified,mohamed-c-bah.jpg
+28901,7878,2018-03-07,Presidential,"District Results",Bombali,North,Mansaray,Mohamed,ADP,FF339F,"First Round",2051,1.32,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32115,32,2002-05-14,Presidential,"Regional Results",,East,Karefa-Smart,John,UNPP,CCCC00,"First Round",2036,0.41,No,Final/Certified,karefa-smart.jpg
+1637,35,2002-05-14,Presidential,"District Results","Port Loko",North,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",2033,1.70,No,Final/Certified,
+32225,46,2012-11-17,Presidential,"Regional Results",,North,Bangura,Mohamed,UDM,9900cc,"First Round",2023,0.27,No,Final/Certified,mohamed-bangura.jpg
+32204,48,2012-11-17,Presidential,"District Results",Kenema,East,Collins,Eldred,RUFP,996633,"First Round",2021,1.00,No,Final/Certified,Eldred-Collins.jpg
+5310,47,2012-11-17,Presidential,"District Results",Koinadugu,North,Carew,"Joshua Albert",CDP,F1C40F,"First Round",2015,2.00,,Final/Certified,Joshua-Carew-312x240.jpg
+29174,7881,2018-03-07,Presidential,"Regional Results",,"North West",Bah,Mohamed,NDA,1F681B,"First Round",1986,0.55,No,Final/Certified,mohamed-c-bah.jpg
+1757,34,2002-05-14,Presidential,"District Results",Kono,East,Koroma,"Johnny Paul",PLP,F08080,"First Round",1980,1.90,No,Final/Certified,
+29083,7886,2018-03-07,Presidential,"District Results",Kenema,East,Ngobeh,Gbandi,RUFP,996633,"First Round",1969,0.84,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+1628,35,2002-05-14,Presidential,"District Results",Bombali,North,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",1961,1.50,No,Final/Certified,
+32231,50,2012-11-17,Presidential,"Regional Results",,South,Kamara,Gibrilla,PDP,1E90FF,"First Round",1959,0.42,No,Final/Certified,
+28916,7878,2018-03-07,Presidential,"District Results","Western Area Urban",West,Mansaray,Mohamed,ADP,FF339F,"First Round",1947,0.38,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+28896,7878,2018-03-07,Presidential,"District Results",Kailahun,East,Mansaray,Mohamed,ADP,FF339F,"First Round",1911,1.41,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32230,49,2012-11-17,Presidential,"Regional Results",,South,Conteh,"Kandeh Baba",PLP,F08080,"First Round",1909,0.41,No,Final/Certified,
+32221,48,2012-11-17,Presidential,"Regional Results",,North,Collins,Eldred,RUFP,996633,"First Round",1908,0.25,No,Final/Certified,Eldred-Collins.jpg
+31223,33,2007-08-11,Presidential,"District Results",Pujehun,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",1890,2.87,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32277,32241,2007-08-11,Presidential,"District Results",Moyamba,South,Turay,Andrew,CPP,808080,"First Round",1873,2.35,No,Final/Certified,male-blank-profile-photo.png
+5341,48,2012-11-17,Presidential,"District Results",Bo,South,Collins,Eldred,RUFP,996633,"First Round",1855,0.80,No,Final/Certified,Eldred-Collins.jpg
+32216,50,2012-11-17,Presidential,"Regional Results",,East,Kamara,Gibrilla,PDP,1E90FF,"First Round",1846,0.42,No,Final/Certified,
+32275,32241,2007-08-11,Presidential,"District Results",Bo,South,Turay,Andrew,CPP,808080,"First Round",1817,1.01,No,Final/Certified,male-blank-profile-photo.png
+5388,47,2012-11-17,Presidential,"District Results","Western Area Urban","North West",Carew,"Joshua Albert",CDP,F1C40F,"First Round",1795,0.40,,Final/Certified,Joshua-Carew-312x240.jpg
+1643,32,2002-05-14,Presidential,"District Results",,,Karefa-Smart,John,UNPP,CCCC00,"First Round",1777,1.40,,Final/Certified,karefa-smart.jpg
+32150,29,2002-05-14,Presidential,"District Results","Western Area Rural",West,Bangura,Zainab,MOP,808080,"First Round",1777,1.01,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+1679,35,2002-05-14,Presidential,"District Results",Tonkolili,North,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",1763,1.30,No,Final/Certified,
+32152,28,2002-05-14,Presidential,"District Results","Western Area Rural",West,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",1752,1.00,No,Final/Certified,pallo-bangura.jpg
+29170,7879,2018-03-07,Presidential,"Regional Results",,South,Sam-Sumana,Samuel,C4C,D68910,"First Round",1751,0.34,No,Final/Certified,samuel-sam-sumana.jpg
+28915,7878,2018-03-07,Presidential,"District Results","Western Area Rural",West,Mansaray,Mohamed,ADP,FF339F,"First Round",1717,0.77,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+28924,7878,2018-03-07,Presidential,"District Results",,South,Mansaray,Mohamed,ADP,FF339F,"First Round",1705,0.43,No,Provisional,mohamed-kamaraimba-mansaray.jpg
+28940,7880,2018-03-07,Presidential,"District Results","Port Loko","North West",Tarawally,Musa,CDP,F1C40F,"First Round",1692,0.98,No,Final/Certified,musa-tarawally.jpg
+29228,7886,2018-03-07,Presidential,"Regional Results",,West,Ngobeh,Gbandi,RUFP,996633,"First Round",1677,0.23,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+1639,29,2002-05-14,Presidential,"District Results","Port Loko",North,Bangura,Zainab,MOP,808080,"First Round",1640,1.30,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+32234,3962,2012-11-17,Presidential,"Regional Results",,West,Margai,Charles,PMDC,F3881E,"First Round",1627,0.28,No,Final/Certified,
+32130,34,2002-05-14,Presidential,"Regional Results",,South,Koroma,"Johnny Paul",PLP,F08080,"First Round",1622,0.29,No,Final/Certified,
+29239,7887,2018-03-07,Presidential,"Regional Results",,South,Sowa,Mohamed,UDM,9900cc,"First Round",1622,0.31,No,Final/Certified,mohamed-turay-sowa.png
+28907,7878,2018-03-07,Presidential,"District Results",Kambia,"North West",Mansaray,Mohamed,ADP,FF339F,"First Round",1620,1.50,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32250,32249,2007-08-11,Presidential,"Regional Results",,East,Karim,Abdul,UNPP,CCCC00,"First Round",1615,0.36,No,Final/Certified,
+5283,47,2012-11-17,Presidential,"District Results",Kono,East,Carew,"Joshua Albert",CDP,F1C40F,"First Round",1597,1.40,,Final/Certified,Joshua-Carew-312x240.jpg
+31230,33,2007-08-11,Presidential,"District Results",Bonthe,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",1597,3.05,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32112,29,2002-05-14,Presidential,"Regional Results",,East,Bangura,Zainab,MOP,808080,"First Round",1597,0.32,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+29082,7886,2018-03-07,Presidential,"District Results",Kailahun,East,Ngobeh,Gbandi,RUFP,996633,"First Round",1585,1.16,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+29173,7881,2018-03-07,Presidential,"Regional Results",,North,Bah,Mohamed,NDA,1F681B,"First Round",1571,0.38,No,Final/Certified,mohamed-c-bah.jpg
+32235,48,2012-11-17,Presidential,"Regional Results",,West,Collins,Eldred,RUFP,996633,"First Round",1545,0.27,No,Final/Certified,Eldred-Collins.jpg
+985,48,2012-11-17,Presidential,"District Results",Kailahun,East,Collins,Eldred,RUFP,996633,"First Round",1530,1.30,No,Final/Certified,Eldred-Collins.jpg
+32289,32243,2007-08-11,Presidential,"District Results",Bo,South,Jalloh,Amadu,NDA,1F681B,"First Round",1523,0.85,No,Final/Certified,male-blank-profile-photo.png
+29116,7887,2018-03-07,Presidential,"District Results",Kono,East,Sowa,Mohamed,UDM,9900cc,"First Round",1515,1.09,No,Final/Certified,mohamed-turay-sowa.png
+32313,32247,2007-08-11,Presidential,"District Results",Kambia,North,Margai,Charles,PMDC,F3881E,"First Round",1510,1.86,No,Final/Certified,male-blank-profile-photo.png
+32131,28,2002-05-14,Presidential,"Regional Results",,South,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",1506,0.27,No,Final/Certified,pallo-bangura.jpg
+32314,32247,2007-08-11,Presidential,"District Results",Koinadugu,North,Margai,Charles,PMDC,F3881E,"First Round",1500,2.11,No,Final/Certified,male-blank-profile-photo.png
+32303,32245,2007-08-11,Presidential,"District Results",Bo,South,Conteh,Kandeh,PLP,F08080,"First Round",1497,0.83,No,Final/Certified,male-blank-profile-photo.png
+29166,7880,2018-03-07,Presidential,"Regional Results",,West,Tarawally,Musa,CDP,F1C40F,"First Round",1491,0.20,No,Final/Certified,musa-tarawally.jpg
+32153,32,2002-05-14,Presidential,"District Results","Western Area Rural",West,Karefa-Smart,John,UNPP,CCCC00,"First Round",1488,0.85,No,Final/Certified,karefa-smart.jpg
+29194,7883,2018-03-07,Presidential,"Regional Results",,"North West",Conteh,Kandeh,PLP,F08080,"First Round",1487,0.41,No,Final/Certified,dr-baba-kandeh.jpg
+5357,47,2012-11-17,Presidential,"District Results",Moyamba,South,Carew,"Joshua Albert",CDP,F1C40F,"First Round",1477,1.30,,Final/Certified,Joshua-Carew-312x240.jpg
+32215,49,2012-11-17,Presidential,"Regional Results",,East,Conteh,"Kandeh Baba",PLP,F08080,"First Round",1473,0.33,No,Final/Certified,
+29176,7881,2018-03-07,Presidential,"Regional Results",,West,Bah,Mohamed,NDA,1F681B,"First Round",1471,0.20,No,Final/Certified,mohamed-c-bah.jpg
+1704,28,2002-05-14,Presidential,"District Results",Kambia,North,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",1467,1.80,No,Final/Certified,pallo-bangura.jpg
+29092,7886,2018-03-07,Presidential,"District Results",Bo,South,Ngobeh,Gbandi,RUFP,996633,"First Round",1464,0.61,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+32267,32241,2007-08-11,Presidential,"District Results",Kailahun,East,Turay,Andrew,CPP,808080,"First Round",1452,1.10,No,Final/Certified,male-blank-profile-photo.png
+29165,7880,2018-03-07,Presidential,"Regional Results",,South,Tarawally,Musa,CDP,F1C40F,"First Round",1449,0.28,No,Final/Certified,musa-tarawally.jpg
+32232,46,2012-11-17,Presidential,"Regional Results",,South,Bangura,Mohamed,UDM,9900cc,"First Round",1448,0.31,No,Final/Certified,mohamed-bangura.jpg
+32137,31,2002-05-14,Presidential,"Regional Results",,West,Kamara,Raymond,GAP,FFA07A,"First Round",1432,0.47,No,Final/Certified,
+1706,32,2002-05-14,Presidential,"District Results",Kambia,North,Karefa-Smart,John,UNPP,CCCC00,"First Round",1396,1.70,No,Final/Certified,karefa-smart.jpg
+28936,7880,2018-03-07,Presidential,"District Results",Tonkolili,North,Tarawally,Musa,CDP,F1C40F,"First Round",1390,0.87,No,Final/Certified,musa-tarawally.jpg
+29197,51,2018-03-07,Presidential,"Regional Results",,East,Margai,Charles,PMDC,F3881E,"First Round",1386,0.27,No,Final/Certified,charles-francis-margai.jpg
+1724,32,2002-05-14,Presidential,"District Results",Moyamba,South,Karefa-Smart,John,UNPP,CCCC00,"First Round",1384,12.00,No,Final/Certified,karefa-smart.jpg
+28908,7878,2018-03-07,Presidential,"District Results",Karene,"North West",Mansaray,Mohamed,ADP,FF339F,"First Round",1362,1.70,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+28960,7879,2018-03-07,Presidential,"District Results",Tonkolili,North,Sam-Sumana,Samuel,C4C,D68910,"First Round",1335,0.84,No,Final/Certified,samuel-sam-sumana.jpg
+32316,32247,2007-08-11,Presidential,"District Results",Tonkolili,North,Margai,Charles,PMDC,F3881E,"First Round",1327,1.13,No,Final/Certified,male-blank-profile-photo.png
+29184,7882,2018-03-07,Presidential,"Regional Results",,"North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",1315,0.36,No,Final/Certified,patrick-odwyer.jpg
+29184,7882,2018-03-07,Presidential,"Regional Results",,"North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",1315,0.36,No,Final/Certified,patrick-odwyer.jpg
+28930,7880,2018-03-07,Presidential,"District Results",Kono,East,Tarawally,Musa,CDP,F1C40F,"First Round",1312,0.94,No,Final/Certified,musa-tarawally.jpg
+32283,62,2007-08-11,Presidential,"District Results",Kono,East,Jalloh,Amadu,,,"First Round",1304,1.05,No,Final/Certified,
+32287,32243,2007-08-11,Presidential,"District Results","Port Loko",North,Jalloh,Amadu,NDA,1F681B,"First Round",1301,0.88,No,Final/Certified,male-blank-profile-photo.png
+32260,63,2007-08-11,Presidential,"Regional Results",,South,Karim,"Abdul Kady",,,"First Round",1293,0.34,No,Final/Certified,
+5362,48,2012-11-17,Presidential,"District Results",Moyamba,South,Collins,Eldred,RUFP,996633,"First Round",1279,1.20,,Final/Certified,Eldred-Collins.jpg
+32296,32245,2007-08-11,Presidential,"District Results",Kenema,East,Conteh,Kandeh,PLP,F08080,"First Round",1270,0.65,No,Final/Certified,male-blank-profile-photo.png
+5378,47,2012-11-17,Presidential,"District Results","Western Area Rural",West,Carew,"Joshua Albert",CDP,F1C40F,"First Round",1261,0.90,,Final/Certified,Joshua-Carew-312x240.jpg
+29175,7881,2018-03-07,Presidential,"Regional Results",,South,Bah,Mohamed,NDA,1F681B,"First Round",1259,0.24,No,Final/Certified,mohamed-c-bah.jpg
+32279,32241,2007-08-11,Presidential,"District Results","Western Area Rural",West,Turay,Andrew,CPP,808080,"First Round",1250,1.59,No,Final/Certified,male-blank-profile-photo.png
+29255,7889,2018-03-07,Presidential,"Regional Results",,East,Claudius-Cole,Olufemi,UP,99ccff,"First Round",1249,0.25,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29225,7886,2018-03-07,Presidential,"Regional Results",,North,Ngobeh,Gbandi,RUFP,996633,"First Round",1245,0.30,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+32265,32249,2007-08-11,Presidential,"Regional Results",,West,Karim,Abdul,UNPP,CCCC00,"First Round",1242,0.28,No,Final/Certified,
+28904,7878,2018-03-07,Presidential,"District Results",Koinadugu,North,Mansaray,Mohamed,ADP,FF339F,"First Round",1235,2.04,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+28899,7878,2018-03-07,Presidential,"District Results",Kenema,East,Mansaray,Mohamed,ADP,FF339F,"First Round",1217,0.52,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+5393,48,2012-11-17,Presidential,"District Results","Western Area Urban","North West",Collins,Eldred,RUFP,996633,"First Round",1211,0.30,,Final/Certified,Eldred-Collins.jpg
+28963,7879,2018-03-07,Presidential,"District Results","Port Loko","North West",Sam-Sumana,Samuel,C4C,D68910,"First Round",1205,0.70,No,Final/Certified,samuel-sam-sumana.jpg
+1630,29,2002-05-14,Presidential,"District Results",Bombali,,Bangura,Zainab,MOP,808080,"First Round",1196,0.90,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+32291,32243,2007-08-11,Presidential,"District Results",Moyamba,South,Jalloh,Amadu,NDA,1F681B,"First Round",1181,1.48,No,Final/Certified,male-blank-profile-photo.png
+28999,74,2018-03-07,Presidential,"District Results",Pujehun,South,Yumkella,Kandeh,NGC,4B0082,"First Round",1177,1.44,No,Final/Certified,dr-kandeh-yumkella.jpg
+32217,46,2012-11-17,Presidential,"Regional Results",,East,Bangura,Mohamed,UDM,9900cc,"First Round",1162,0.26,No,Final/Certified,mohamed-bangura.jpg
+5320,50,2012-11-17,Presidential,"District Results","Port Loko",North,Kamara,Gibrilla,PDP,1E90FF,"First Round",1160,0.60,,Final/Certified,
+1684,29,2002-05-14,Presidential,"District Results",Tonkolili,North,Bangura,Zainab,MOP,808080,"First Round",1155,0.90,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+32281,32243,2007-08-11,Presidential,"District Results",Kailahun,East,Jalloh,Amadu,NDA,1F681B,"First Round",1130,0.85,No,Final/Certified,male-blank-profile-photo.png
+29063,51,2018-03-07,Presidential,"District Results",Pujehun,South,Margai,Charles,PMDC,F3881E,"First Round",1122,1.37,No,Final/Certified,charles-francis-margai.jpg
+32305,32245,2007-08-11,Presidential,"District Results",Moyamba,South,Conteh,Kandeh,PLP,F08080,"First Round",1118,1.40,No,Final/Certified,male-blank-profile-photo.png
+29094,7886,2018-03-07,Presidential,"District Results",Moyamba,South,Ngobeh,Gbandi,RUFP,996633,"First Round",1115,0.96,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+29226,7886,2018-03-07,Presidential,"Regional Results",,"North West",Ngobeh,Gbandi,RUFP,996633,"First Round",1109,0.31,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+28955,7879,2018-03-07,Presidential,"District Results",Kenema,East,Sam-Sumana,Samuel,C4C,D68910,"First Round",1101,0.47,No,Final/Certified,samuel-sam-sumana.jpg
+32233,52,2012-11-17,Presidential,"Regional Results",,South,Fullah,"James Obai",UNPP,CCCC00,"First Round",1099,0.24,No,Final/Certified,
+32285,32243,2007-08-11,Presidential,"District Results",Kambia,North,Jalloh,Amadu,NDA,1F681B,"First Round",1087,1.34,No,Final/Certified,male-blank-profile-photo.png
+32136,35,2002-05-14,Presidential,"Regional Results",,West,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",1085,0.36,No,Final/Certified,
+32263,32245,2007-08-11,Presidential,"Regional Results",,West,Conteh,Kandeh,PLP,F08080,"First Round",1082,0.24,No,Final/Certified,male-blank-profile-photo.png
+29193,7883,2018-03-07,Presidential,"Regional Results",,North,Conteh,Kandeh,PLP,F08080,"First Round",1078,0.26,No,Final/Certified,dr-baba-kandeh.jpg
+28937,7880,2018-03-07,Presidential,"District Results",Kambia,"North West",Tarawally,Musa,CDP,F1C40F,"First Round",1075,1.00,No,Final/Certified,musa-tarawally.jpg
+29093,7886,2018-03-07,Presidential,"District Results",Bonthe,South,Ngobeh,Gbandi,RUFP,996633,"First Round",1066,1.37,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+28902,7878,2018-03-07,Presidential,"District Results",Falaba,North,Mansaray,Mohamed,ADP,FF339F,"First Round",1064,2.49,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32284,62,2007-08-11,Presidential,"District Results",Bombali,North,Jalloh,Amadu,,,"First Round",1055,0.73,No,Final/Certified,
+1702,29,2002-05-14,Presidential,"District Results",Kambia,North,Bangura,Zainab,MOP,808080,"First Round",1051,1.30,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+5392,51,2012-11-17,Presidential,"District Results","Western Area Urban","North West",Margai,Charles,PMDC,F3881E,"First Round",1039,0.20,,Final/Certified,charles-francis-margai.jpg
+32218,52,2012-11-17,Presidential,"Regional Results",,East,Fullah,"James Obai",UNPP,CCCC00,"First Round",1032,0.23,No,Final/Certified,
+28913,7878,2018-03-07,Presidential,"District Results",Moyamba,South,Mansaray,Mohamed,ADP,FF339F,"First Round",1025,0.88,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+1756,29,2002-05-14,Presidential,"District Results",Kono,East,Bangura,Zainab,MOP,808080,"First Round",1014,0.90,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+32149,31,2002-05-14,Presidential,"District Results","Western Area Rural",South,Kamara,Raymond,GAP,FFA07A,"First Round",1011,0.58,No,Final/Certified,
+1758,28,2002-05-14,Presidential,"District Results",Kono,East,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",1008,0.90,No,Final/Certified,pallo-bangura.jpg
+1751,32,2002-05-14,Presidential,"District Results",Kenema,East,Karefa-Smart,John,UNPP,CCCC00,"First Round",991,0.40,No,Final/Certified,karefa-smart.jpg
+32201,47,2012-11-17,Presidential,"District Results",Kenema,East,Carew,"Joshua Albert",CDP,F1C40F,"First Round",984,0.50,No,Final/Certified,Joshua-Carew-312x240.jpg
+5373,48,2012-11-17,Presidential,"District Results",Pujehun,South,Collins,Eldred,RUFP,996633,"First Round",981,1.40,,Final/Certified,Eldred-Collins.jpg
+28972,7881,2018-03-07,Presidential,"District Results",Kono,East,Bah,Mohamed,NDA,1F681B,"First Round",969,0.69,No,Final/Certified,mohamed-c-bah.jpg
+28977,7881,2018-03-07,Presidential,"District Results",Kambia,"North West",Bah,Mohamed,NDA,1F681B,"First Round",955,0.89,No,Final/Certified,mohamed-c-bah.jpg
+32129,29,2002-05-14,Presidential,"Regional Results",,South,Bangura,Zainab,MOP,808080,"First Round",948,0.17,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+32336,32249,2007-08-11,Presidential,"District Results","Western Area Urban",West,Karim,Abdul,UNPP,CCCC00,"First Round",943,0.26,No,Final/Certified,
+5350,48,2012-11-17,Presidential,"District Results",Bonthe,South,Collins,Eldred,RUFP,996633,"First Round",943,1.40,,Final/Certified,Eldred-Collins.jpg
+29183,7882,2018-03-07,Presidential,"Regional Results",,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",931,0.22,No,Final/Certified,patrick-odwyer.jpg
+29183,7882,2018-03-07,Presidential,"Regional Results",,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",931,0.22,No,Final/Certified,patrick-odwyer.jpg
+5287,48,2012-11-17,Presidential,"District Results",Kono,East,Collins,Eldred,RUFP,996633,"First Round",931,0.80,,Final/Certified,Eldred-Collins.jpg
+5317,52,2012-11-17,Presidential,"District Results",Koinadugu,North,Fullah,"James Obai",UNPP,CCCC00,"First Round",925,0.90,,Final/Certified,
+32286,32243,2007-08-11,Presidential,"District Results",Koinadugu,North,Jalloh,Amadu,NDA,1F681B,"First Round",918,1.29,No,Final/Certified,male-blank-profile-photo.png
+32128,31,2002-05-14,Presidential,"Regional Results",,South,Kamara,Raymond,GAP,FFA07A,"First Round",916,0.00,No,Final/Certified,
+1748,34,2002-05-14,Presidential,"District Results",Kenema,East,Koroma,"Johnny Paul",PLP,F08080,"First Round",908,0.30,No,Final/Certified,
+29061,51,2018-03-07,Presidential,"District Results",Bonthe,South,Margai,Charles,PMDC,F3881E,"First Round",896,1.15,No,Final/Certified,charles-francis-margai.jpg
+5304,51,2012-11-17,Presidential,"District Results",Kambia,North,Margai,Charles,PMDC,F3881E,"First Round",888,0.80,,Final/Certified,charles-francis-margai.jpg
+5313,51,2012-11-17,Presidential,"District Results",Koinadugu,North,Margai,Charles,PMDC,F3881E,"First Round",880,0.90,,Final/Certified,charles-francis-margai.jpg
+5337,47,2012-11-17,Presidential,"District Results",Bo,South,Carew,"Joshua Albert",CDP,F1C40F,"First Round",876,0.40,No,Final/Certified,Joshua-Carew-312x240.jpg
+32160,32,2002-05-14,Presidential,"District Results","Western Area Urban",West,Karefa-Smart,John,UNPP,CCCC00,"First Round",869,0.68,No,Final/Certified,karefa-smart.jpg
+28900,7878,2018-03-07,Presidential,"District Results",Kono,East,Mansaray,Mohamed,ADP,FF339F,"First Round",867,0.62,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32240,50,2012-11-17,Presidential,"Regional Results",,West,Kamara,Gibrilla,PDP,1E90FF,"First Round",857,0.15,No,Final/Certified,
+29096,7886,2018-03-07,Presidential,"District Results","Western Area Rural",West,Ngobeh,Gbandi,RUFP,996633,"First Round",852,0.38,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+28898,7879,2018-03-07,Presidential,"District Results",Kailahun,East,Sam-Sumana,Samuel,C4C,D68910,"First Round",850,0.63,No,Final/Certified,samuel-sam-sumana.jpg
+28985,7881,2018-03-07,Presidential,"District Results","Western Area Urban",West,Bah,Mohamed,NDA,1F681B,"First Round",850,0.17,No,Final/Certified,mohamed-c-bah.jpg
+5286,51,2012-11-17,Presidential,"District Results",Kono,East,Margai,Charles,PMDC,F3881E,"First Round",850,0.70,,Final/Certified,charles-francis-margai.jpg
+29041,7883,2018-03-07,Presidential,"District Results",Kambia,"North West",Conteh,Kandeh,PLP,F08080,"First Round",848,0.79,No,Final/Certified,dr-baba-kandeh.jpg
+29084,7886,2018-03-07,Presidential,"District Results",Kono,East,Ngobeh,Gbandi,RUFP,996633,"First Round",842,0.60,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+990,51,2012-11-17,Presidential,"District Results",Kailahun,,Margai,Charles,PMDC,F3881E,"First Round",840,0.70,No,Final/Certified,charles-francis-margai.jpg
+28961,7879,2018-03-07,Presidential,"District Results",Kambia,"North West",Sam-Sumana,Samuel,C4C,D68910,"First Round",839,0.78,No,Final/Certified,samuel-sam-sumana.jpg
+920,47,2012-11-17,Presidential,"District Results",Kailahun,East,Carew,"Joshua Albert",CDP,F1C40F,"First Round",837,0.70,No,Final/Certified,Joshua-Carew-312x240.jpg
+32299,32245,2007-08-11,Presidential,"District Results",Kambia,North,Conteh,Kandeh,PLP,F08080,"First Round",833,1.02,No,Final/Certified,male-blank-profile-photo.png
+1713,28,2002-05-14,Presidential,"District Results",Bo,South,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",831,0.30,No,Final/Certified,pallo-bangura.jpg
+29097,7886,2018-03-07,Presidential,"District Results","Western Area Urban",West,Ngobeh,Gbandi,RUFP,996633,"First Round",825,0.16,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+28948,7880,2018-03-07,Presidential,"District Results","Western Area Urban",West,Tarawally,Musa,CDP,F1C40F,"First Round",821,0.16,No,Final/Certified,musa-tarawally.jpg
+28979,7881,2018-03-07,Presidential,"District Results","Port Loko","North West",Bah,Mohamed,NDA,1F681B,"First Round",819,0.47,No,Final/Certified,mohamed-c-bah.jpg
+32143,36,2002-05-14,Presidential,"Regional Results",,West,Turay,Andrew,YPP,D3D3D3,"First Round",815,0.27,No,Final/Certified,
+1712,34,2002-05-14,Presidential,"District Results",Bo,South,Koroma,"Johnny Paul",PLP,F08080,"First Round",813,0.30,No,Final/Certified,
+29258,7889,2018-03-07,Presidential,"Regional Results",,"North West",Claudius-Cole,Olufemi,UP,99ccff,"First Round",812,0.22,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+32308,32245,2007-08-11,Presidential,"District Results","Western Area Urban",West,Conteh,Kandeh,PLP,F08080,"First Round",794,0.22,No,Final/Certified,male-blank-profile-photo.png
+29182,7882,2018-03-07,Presidential,"Regional Results",,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",788,0.15,No,Final/Certified,patrick-odwyer.jpg
+29182,7882,2018-03-07,Presidential,"Regional Results",,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",788,0.15,No,Final/Certified,patrick-odwyer.jpg
+32111,31,2002-05-14,Presidential,"Regional Results",,East,Kamara,Raymond,GAP,FFA07A,"First Round",787,0.16,No,Final/Certified,
+1762,33,2002-05-14,Presidential,"District Results",Kailahun,East,"Bai Koroma",Ernest,APC,FF333C,"First Round",777,0.70,No,Final/Certified,Ernest-Bai-Koroma.jpg
+28958,7879,2018-03-07,Presidential,"District Results",Falaba,North,Sam-Sumana,Samuel,C4C,D68910,"First Round",773,1.81,No,Final/Certified,samuel-sam-sumana.jpg
+1701,31,2002-05-14,Presidential,"District Results",Kambia,North,Kamara,Raymond,GAP,FFA07A,"First Round",765,0.90,No,Final/Certified,
+32329,32249,2007-08-11,Presidential,"District Results","Port Loko",North,Karim,Abdul,UNPP,CCCC00,"First Round",765,0.52,No,Final/Certified,
+29192,7883,2018-03-07,Presidential,"Regional Results",,East,Conteh,Kandeh,PLP,F08080,"First Round",765,0.15,No,Final/Certified,dr-baba-kandeh.jpg
+29257,7889,2018-03-07,Presidential,"Regional Results",,North,Claudius-Cole,Olufemi,UP,99ccff,"First Round",763,0.18,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29242,7888,2018-03-07,Presidential,"Regional Results",,East,Kabuta,Henry,UNPP,CCCC00,"First Round",760,0.15,No,Final/Certified,henry-saa-kabuta.jpg
+29244,7888,2018-03-07,Presidential,"Regional Results",,"North West",Kabuta,Henry,UNPP,CCCC00,"First Round",756,0.21,No,Final/Certified,henry-saa-kabuta.jpg
+29095,7886,2018-03-07,Presidential,"District Results",Pujehun,South,Ngobeh,Gbandi,RUFP,996633,"First Round",755,0.92,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+32148,35,2002-05-14,Presidential,"District Results","Western Area Rural",West,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",743,0.42,No,Final/Certified,
+5358,50,2012-11-17,Presidential,"District Results",Moyamba,South,Kamara,Gibrilla,PDP,1E90FF,"First Round",740,0.70,,Final/Certified,
+32306,32245,2007-08-11,Presidential,"District Results",Pujehun,South,Conteh,Kandeh,PLP,F08080,"First Round",725,1.10,No,Final/Certified,male-blank-profile-photo.png
+29240,7887,2018-03-07,Presidential,"Regional Results",,West,Sowa,Mohamed,UDM,9900cc,"First Round",721,0.10,No,Final/Certified,mohamed-turay-sowa.png
+5302,50,2012-11-17,Presidential,"District Results",Kambia,North,Kamara,Gibrilla,PDP,1E90FF,"First Round",717,0.70,,Final/Certified,
+29243,7888,2018-03-07,Presidential,"Regional Results",,North,Kabuta,Henry,UNPP,CCCC00,"First Round",717,0.17,No,Final/Certified,henry-saa-kabuta.jpg
+32327,32249,2007-08-11,Presidential,"District Results",Kambia,North,Karim,Abdul,UNPP,CCCC00,"First Round",707,0.87,No,Final/Certified,
+5321,49,2012-11-17,Presidential,"District Results","Port Loko",North,Conteh,"Kandeh Baba",PLP,F08080,"First Round",699,0.30,,Final/Certified,
+1719,31,2002-05-14,Presidential,"District Results",Moyamba,South,Kamara,Raymond,GAP,FFA07A,"First Round",697,0.60,No,Final/Certified,
+1671,32,2002-05-14,Presidential,"District Results",Koinadugu,North,Karefa-Smart,John,UNPP,CCCC00,"First Round",696,0.90,No,Final/Certified,karefa-smart.jpg
+29195,7883,2018-03-07,Presidential,"Regional Results",,South,Conteh,Kandeh,PLP,F08080,"First Round",694,0.13,No,Final/Certified,dr-baba-kandeh.jpg
+1668,28,2002-05-14,Presidential,"District Results",Koinadugu,North,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",690,0.90,No,Final/Certified,pallo-bangura.jpg
+29209,7885,2018-03-07,Presidential,"Regional Results",,East,Williams,Beresford,ReNIP,343a40,"First Round",689,0.14,No,Final/Certified,male-blank-profile-photo.png
+28959,7879,2018-03-07,Presidential,"District Results",Koinadugu,North,Sam-Sumana,Samuel,C4C,D68910,"First Round",686,1.14,No,Final/Certified,samuel-sam-sumana.jpg
+5284,50,2012-11-17,Presidential,"District Results",Kono,East,Kamara,Gibrilla,PDP,1E90FF,"First Round",682,0.60,,Final/Certified,
+32276,32241,2007-08-11,Presidential,"District Results",Bonthe,South,Turay,Andrew,CPP,808080,"First Round",682,1.30,No,Final/Certified,male-blank-profile-photo.png
+1715,32,2002-05-14,Presidential,"District Results",Bo,South,Karefa-Smart,John,UNPP,CCCC00,"First Round",680,0.30,No,Final/Certified,karefa-smart.jpg
+32159,28,2002-05-14,Presidential,"District Results","Western Area Urban",West,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",677,0.53,No,Final/Certified,pallo-bangura.jpg
+32290,32243,2007-08-11,Presidential,"District Results",Bonthe,South,Jalloh,Amadu,NDA,1F681B,"First Round",676,1.29,No,Final/Certified,male-blank-profile-photo.png
+29051,51,2018-03-07,Presidential,"District Results",Kenema,East,Margai,Charles,PMDC,F3881E,"First Round",675,0.29,No,Final/Certified,charles-francis-margai.jpg
+28947,7880,2018-03-07,Presidential,"District Results","Western Area Rural",West,Tarawally,Musa,CDP,F1C40F,"First Round",670,0.30,No,Final/Certified,musa-tarawally.jpg
+29220,7885,2018-03-07,Presidential,"Regional Results",,South,Williams,Beresford,ReNIP,343a40,"First Round",666,0.13,No,Final/Certified,male-blank-profile-photo.png
+32295,32245,2007-08-11,Presidential,"District Results",Kailahun,East,Conteh,Kandeh,PLP,F08080,"First Round",664,0.50,No,Final/Certified,male-blank-profile-photo.png
+1760,32,2002-05-14,Presidential,"District Results",Kono,,Karefa-Smart,John,UNPP,CCCC00,"First Round",664,0.60,No,Final/Certified,karefa-smart.jpg
+1635,36,2002-05-14,Presidential,"District Results",,,Turay,Andrew,YPP,D3D3D3,"First Round",659,0.30,,Final/Certified,
+32288,32243,2007-08-11,Presidential,"District Results",Tonkolili,North,Jalloh,Amadu,NDA,1F681B,"First Round",658,0.56,No,Final/Certified,male-blank-profile-photo.png
+5339,49,2012-11-17,Presidential,"District Results",Bo,South,Conteh,"Kandeh Baba",PLP,F08080,"First Round",653,0.30,No,Final/Certified,
+1700,35,2002-05-14,Presidential,"District Results",Kambia,North,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",652,0.80,No,Final/Certified,
+32301,32245,2007-08-11,Presidential,"District Results","Port Loko",North,Conteh,Kandeh,PLP,F08080,"First Round",652,0.44,No,Final/Certified,male-blank-profile-photo.png
+28945,7880,2018-03-07,Presidential,"District Results",Moyamba,South,Tarawally,Musa,CDP,F1C40F,"First Round",651,0.56,No,Final/Certified,musa-tarawally.jpg
+28931,7880,2018-03-07,Presidential,"District Results",Bombali,North,Tarawally,Musa,CDP,F1C40F,"First Round",649,0.42,No,Final/Certified,musa-tarawally.jpg
+29199,51,2018-03-07,Presidential,"Regional Results",,"North West",Margai,Charles,PMDC,F3881E,"First Round",649,0.18,No,Final/Certified,charles-francis-margai.jpg
+28971,7881,2018-03-07,Presidential,"District Results",Kenema,East,Bah,Mohamed,NDA,1F681B,"First Round",644,0.28,No,Final/Certified,mohamed-c-bah.jpg
+32304,32245,2007-08-11,Presidential,"District Results",Bonthe,South,Conteh,Kandeh,PLP,F08080,"First Round",643,1.23,No,Final/Certified,male-blank-profile-photo.png
+29201,51,2018-03-07,Presidential,"Regional Results",,West,Margai,Charles,PMDC,F3881E,"First Round",643,0.09,No,Final/Certified,charles-francis-margai.jpg
+28911,7878,2018-03-07,Presidential,"District Results",Bo,South,Mansaray,Mohamed,ADP,FF339F,"First Round",642,0.27,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+5359,49,2012-11-17,Presidential,"District Results",Moyamba,South,Conteh,"Kandeh Baba",PLP,F08080,"First Round",642,0.60,,Final/Certified,
+32326,32249,2007-08-11,Presidential,"District Results",Bombali,North,Karim,Abdul,UNPP,CCCC00,"First Round",641,0.44,No,Final/Certified,
+29185,7882,2018-03-07,Presidential,"Regional Results",,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",640,0.12,No,Final/Certified,patrick-odwyer.jpg
+29185,7882,2018-03-07,Presidential,"Regional Results",,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",640,0.12,No,Final/Certified,patrick-odwyer.jpg
+28964,7879,2018-03-07,Presidential,"District Results",Bo,South,Sam-Sumana,Samuel,C4C,D68910,"First Round",636,0.26,No,Final/Certified,samuel-sam-sumana.jpg
+32339,7890,2018-03-07,Presidential,"Regional Results",,"North West",Sandy,"Jonathan Patrick",NURP,343a40,"First Round",634,0.18,No,Final/Certified,"jonathan sandy.png"
+5311,50,2012-11-17,Presidential,"District Results",Koinadugu,North,Kamara,Gibrilla,PDP,1E90FF,"First Round",631,0.60,,Final/Certified,
+32278,32241,2007-08-11,Presidential,"District Results",Pujehun,South,Turay,Andrew,CPP,808080,"First Round",627,0.95,No,Final/Certified,male-blank-profile-photo.png
+5322,51,2012-11-17,Presidential,"District Results","Port Loko",North,Margai,Charles,PMDC,F3881E,"First Round",626,0.30,,Final/Certified,charles-francis-margai.jpg
+32292,32243,2007-08-11,Presidential,"District Results",Pujehun,South,Jalloh,Amadu,NDA,1F681B,"First Round",623,0.95,No,Final/Certified,male-blank-profile-photo.png
+28984,7881,2018-03-07,Presidential,"District Results","Western Area Rural",West,Bah,Mohamed,NDA,1F681B,"First Round",621,0.28,No,Final/Certified,mohamed-c-bah.jpg
+32325,32249,2007-08-11,Presidential,"District Results",Kono,East,Karim,Abdul,UNPP,CCCC00,"First Round",621,0.50,No,Final/Certified,
+32293,32243,2007-08-11,Presidential,"District Results","Western Area Rural",West,Jalloh,Amadu,NDA,1F681B,"First Round",619,0.79,No,Final/Certified,male-blank-profile-photo.png
+29245,7888,2018-03-07,Presidential,"Regional Results",,South,Kabuta,Henry,UNPP,CCCC00,"First Round",617,0.12,No,Final/Certified,henry-saa-kabuta.jpg
+28976,7881,2018-03-07,Presidential,"District Results",Tonkolili,North,Bah,Mohamed,NDA,1F681B,"First Round",617,0.39,No,Final/Certified,mohamed-c-bah.jpg
+32209,46,2012-11-17,Presidential,"District Results","Port Loko",North,Bangura,Mohamed,UDM,9900cc,"First Round",614,0.30,No,Final/Certified,mohamed-bangura.jpg
+5325,,2012-11-17,Presidential,"District Results","Port Loko",North,,,,,"First Round",614,0.30,,Final/Certified,
+32202,50,2012-11-17,Presidential,"District Results",Kenema,East,Kamara,Gibrilla,PDP,1E90FF,"First Round",609,0.30,No,Final/Certified,
+1647,35,2002-05-14,Presidential,"District Results",Koinadugu,North,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",605,0.80,No,Final/Certified,
+32324,32249,2007-08-11,Presidential,"District Results",Kenema,East,Karim,Abdul,UNPP,CCCC00,"First Round",602,0.31,No,Final/Certified,
+29009,7882,2018-03-07,Presidential,"District Results",Kambia,"North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",600,0.56,No,Final/Certified,patrick-odwyer.jpg
+29009,7882,2018-03-07,Presidential,"District Results",Kambia,"North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",600,0.56,No,Final/Certified,patrick-odwyer.jpg
+28957,7879,2018-03-07,Presidential,"District Results",Bombali,North,Sam-Sumana,Samuel,C4C,D68910,"First Round",599,0.39,No,Final/Certified,samuel-sam-sumana.jpg
+29236,7887,2018-03-07,Presidential,"Regional Results",,North,Sowa,Mohamed,UDM,9900cc,"First Round",599,0.14,No,Final/Certified,mohamed-turay-sowa.png
+32237,49,2012-11-17,Presidential,"Regional Results",,West,Conteh,"Kandeh Baba",PLP,F08080,"First Round",599,0.10,No,Final/Certified,
+29146,7889,2018-03-07,Presidential,"District Results",Kailahun,East,Claudius-Cole,Olufemi,UP,99ccff,"First Round",598,0.44,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29011,7882,2018-03-07,Presidential,"District Results","Port Loko","North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",596,0.34,No,Final/Certified,patrick-odwyer.jpg
+28966,7879,2018-03-07,Presidential,"District Results",Moyamba,South,Sam-Sumana,Samuel,C4C,D68910,"First Round",596,0.51,No,Final/Certified,samuel-sam-sumana.jpg
+29011,7882,2018-03-07,Presidential,"District Results","Port Loko","North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",596,0.34,No,Final/Certified,patrick-odwyer.jpg
+5293,50,2012-11-17,Presidential,"District Results",Bombali,North,Kamara,Gibrilla,PDP,1E90FF,"First Round",595,0.30,No,Final/Certified,
+32157,29,2002-05-14,Presidential,"District Results","Western Area Urban",West,Bangura,Zainab,MOP,808080,"First Round",594,0.46,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+5381,51,2012-11-17,Presidential,"District Results","Western Area Rural",West,Margai,Charles,PMDC,F3881E,"First Round",588,0.40,,Final/Certified,charles-francis-margai.jpg
+5338,50,2012-11-17,Presidential,"District Results",Bo,South,Kamara,Gibrilla,PDP,1E90FF,"First Round",584,0.30,No,Final/Certified,
+32297,32245,2007-08-11,Presidential,"District Results",Kono,East,Conteh,Kandeh,PLP,F08080,"First Round",584,0.47,No,Final/Certified,male-blank-profile-photo.png
+5276,49,2012-11-17,Presidential,"District Results",Kenema,East,Conteh,"Kandeh Baba",PLP,F08080,"First Round",582,0.30,,Final/Certified,
+28997,74,2018-03-07,Presidential,"District Results",Bonthe,South,Yumkella,Kandeh,NGC,4B0082,"First Round",579,0.74,No,Final/Certified,dr-kandeh-yumkella.jpg
+29198,51,2018-03-07,Presidential,"Regional Results",,North,Margai,Charles,PMDC,F3881E,"First Round",574,0.14,No,Final/Certified,charles-francis-margai.jpg
+32110,35,2002-05-14,Presidential,"Regional Results",,East,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",566,0.11,No,Final/Certified,
+29186,7882,2018-03-07,Presidential,"Regional Results",,West,O'Dwyer,Patrick,NPD,3498DB,"First Round",565,0.08,No,Final/Certified,patrick-odwyer.jpg
+29186,7882,2018-03-07,Presidential,"Regional Results",,West,O'Dwyer,Patrick,NPD,3498DB,"First Round",565,0.08,No,Final/Certified,patrick-odwyer.jpg
+988,50,2012-11-17,Presidential,"District Results",Kailahun,,Kamara,Gibrilla,PDP,1E90FF,"First Round",555,0.50,No,Final/Certified,
+28934,7880,2018-03-07,Presidential,"District Results",Koinadugu,North,Tarawally,Musa,CDP,F1C40F,"First Round",553,0.92,No,Final/Certified,musa-tarawally.jpg
+32298,32245,2007-08-11,Presidential,"District Results",Bombali,North,Conteh,Kandeh,PLP,F08080,"First Round",551,0.38,No,Final/Certified,male-blank-profile-photo.png
+1720,29,2002-05-14,Presidential,"District Results",Moyamba,South,Bangura,Zainab,MOP,808080,"First Round",548,0.50,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+5343,,2012-11-17,Presidential,"District Results",Bo,South,,,,,"First Round",544,0.20,,Final/Certified,
+32330,32249,2007-08-11,Presidential,"District Results",Tonkolili,North,Karim,Abdul,UNPP,CCCC00,"First Round",544,0.46,No,Final/Certified,
+1698,36,2002-05-14,Presidential,"District Results",Tonkolili,North,Turay,Andrew,YPP,D3D3D3,"First Round",544,0.40,No,Final/Certified,
+32164,46,2012-11-17,Presidential,"District Results",Bo,South,Bangura,Mohamed,UDM,9900cc,"First Round",544,0.20,No,Final/Certified,mohamed-bangura.jpg
+29259,7889,2018-03-07,Presidential,"Regional Results",,South,Claudius-Cole,Olufemi,UP,99ccff,"First Round",541,0.10,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+5390,50,2012-11-17,Presidential,"District Results","Western Area Urban","North West",Kamara,Gibrilla,PDP,1E90FF,"First Round",539,0.10,,Final/Certified,
+29211,7885,2018-03-07,Presidential,"Regional Results",,North,Williams,Beresford,ReNIP,343a40,"First Round",534,0.13,No,Final/Certified,male-blank-profile-photo.png
+5365,52,2012-11-17,Presidential,"District Results",Moyamba,South,Fullah,"James Obai",UNPP,CCCC00,"First Round",534,0.50,,Final/Certified,
+32300,32245,2007-08-11,Presidential,"District Results",Koinadugu,North,Conteh,Kandeh,PLP,F08080,"First Round",525,0.74,No,Final/Certified,male-blank-profile-photo.png
+29189,,2018-03-07,Presidential,"Regional Results",,"North West",,,,,"First Round",521,0.18,No,Provisional,
+5323,48,2012-11-17,Presidential,"District Results","Port Loko",North,Collins,Eldred,RUFP,996633,"First Round",518,0.30,,Final/Certified,Eldred-Collins.jpg
+29124,7887,2018-03-07,Presidential,"District Results",Bo,South,Sowa,Mohamed,UDM,9900cc,"First Round",514,0.21,No,Final/Certified,mohamed-turay-sowa.png
+29188,7890,2018-03-07,Presidential,"Regional Results",,North,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",510,0.12,No,Final/Certified,"jonathan sandy.png"
+29148,7889,2018-03-07,Presidential,"District Results",Kono,East,Claudius-Cole,Olufemi,UP,99ccff,"First Round",510,0.37,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+5329,50,2012-11-17,Presidential,"District Results",Tonkolili,North,Kamara,Gibrilla,PDP,1E90FF,"First Round",508,0.30,,Final/Certified,
+29129,7887,2018-03-07,Presidential,"District Results","Western Area Urban",West,Sowa,Mohamed,UDM,9900cc,"First Round",505,0.10,No,Final/Certified,mohamed-turay-sowa.png
+29091,7886,2018-03-07,Presidential,"District Results","Port Loko","North West",Ngobeh,Gbandi,RUFP,996633,"First Round",502,0.29,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+28980,7881,2018-03-07,Presidential,"District Results",Bo,South,Bah,Mohamed,NDA,1F681B,"First Round",502,0.21,No,Final/Certified,mohamed-c-bah.jpg
+29758,7890,2018-03-07,Presidential,"Regional Results",,East,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",500,0.10,No,Final/Certified,"jonathan sandy.png"
+1661,31,2002-05-14,Presidential,"District Results",Koinadugu,North,Kamara,Raymond,GAP,FFA07A,"First Round",499,0.70,No,Final/Certified,
+32348,7890,2018-03-07,Presidential,"District Results","Port Loko","North West",Sandy,"Jonathan Patrick",NURP,343a40,"First Round",497,0.29,No,Final/Certified,"jonathan sandy.png"
+29155,7889,2018-03-07,Presidential,"District Results","Port Loko","North West",Claudius-Cole,Olufemi,UP,99ccff,"First Round",497,0.29,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+5331,51,2012-11-17,Presidential,"District Results",Tonkolili,North,Margai,Charles,PMDC,F3881E,"First Round",493,0.30,,Final/Certified,charles-francis-margai.jpg
+28929,7880,2018-03-07,Presidential,"District Results",Kenema,East,Tarawally,Musa,CDP,F1C40F,"First Round",492,0.21,No,Final/Certified,musa-tarawally.jpg
+29214,7890,2018-03-07,Presidential,"Regional Results",,South,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",491,0.09,No,Final/Certified,"jonathan sandy.png"
+1722,28,2002-05-14,Presidential,"District Results",Moyamba,South,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",491,0.40,No,Final/Certified,pallo-bangura.jpg
+32333,32249,2007-08-11,Presidential,"District Results",Moyamba,South,Karim,Abdul,UNPP,CCCC00,"First Round",491,0.62,No,Final/Certified,
+29219,7885,2018-03-07,Presidential,"Regional Results",,"North West",Williams,Beresford,ReNIP,343a40,"First Round",489,0.14,No,Final/Certified,male-blank-profile-photo.png
+28939,7880,2018-03-07,Presidential,"District Results",Karene,"North West",Tarawally,Musa,CDP,F1C40F,"First Round",486,0.61,No,Final/Certified,musa-tarawally.jpg
+32208,46,2012-11-17,Presidential,"District Results",Moyamba,South,Bangura,Mohamed,UDM,9900cc,"First Round",477,0.40,No,Final/Certified,mohamed-bangura.jpg
+5364,,2012-11-17,Presidential,"District Results",Moyamba,South,,,,,"First Round",477,0.34,,Final/Certified,
+5326,52,2012-11-17,Presidential,"District Results","Port Loko",North,Fullah,"James Obai",UNPP,CCCC00,"First Round",472,0.20,,Final/Certified,
+32331,32249,2007-08-11,Presidential,"District Results",Bo,South,Karim,Abdul,UNPP,CCCC00,"First Round",472,0.26,No,Final/Certified,
+28897,7880,2018-03-07,Presidential,"District Results",Kailahun,East,Tarawally,Musa,CDP,F1C40F,"First Round",471,0.35,No,Final/Certified,musa-tarawally.jpg
+29043,7883,2018-03-07,Presidential,"District Results","Port Loko","North West",Conteh,Kandeh,PLP,F08080,"First Round",466,0.27,No,Final/Certified,dr-baba-kandeh.jpg
+5290,52,2012-11-17,Presidential,"District Results",Kono,East,Fullah,"James Obai",UNPP,CCCC00,"First Round",462,0.40,,Final/Certified,
+29262,7889,2018-03-07,Presidential,"Regional Results",,West,Claudius-Cole,Olufemi,UP,99ccff,"First Round",460,0.06,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+32154,36,2002-05-14,Presidential,"District Results","Western Area Rural",West,Turay,Andrew,YPP,D3D3D3,"First Round",457,0.26,No,Final/Certified,
+32328,32249,2007-08-11,Presidential,"District Results",Koinadugu,North,Karim,Abdul,UNPP,CCCC00,"First Round",453,0.64,No,Final/Certified,
+5285,49,2012-11-17,Presidential,"District Results",Kono,East,Conteh,"Kandeh Baba",PLP,F08080,"First Round",450,0.40,,Final/Certified,
+32162,29,2002-05-14,Presidential,"District Results",Koinadugu,North,Bangura,Zainab,MOP,808080,"First Round",448,0.70,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+1721,34,2002-05-14,Presidential,"District Results",Moyamba,South,Koroma,"Johnny Paul",PLP,F08080,"First Round",446,0.40,No,Final/Certified,
+28970,7881,2018-03-07,Presidential,"District Results",Kailahun,East,Bah,Mohamed,NDA,1F681B,"First Round",444,0.33,No,Final/Certified,mohamed-c-bah.jpg
+922,49,2012-11-17,Presidential,"District Results",Kailahun,East,Conteh,"Kandeh Baba",PLP,F08080,"First Round",441,0.40,No,Final/Certified,
+29238,7887,2018-03-07,Presidential,"Regional Results",,"North West",Sowa,Mohamed,UDM,9900cc,"First Round",440,0.12,No,Final/Certified,mohamed-turay-sowa.png
+32238,46,2012-11-17,Presidential,"Regional Results",,West,Bangura,Mohamed,UDM,9900cc,"First Round",436,0.08,No,Final/Certified,mohamed-bangura.jpg
+5312,49,2012-11-17,Presidential,"District Results",Koinadugu,North,Conteh,"Kandeh Baba",PLP,F08080,"First Round",435,0.40,,Final/Certified,
+28933,7880,2018-03-07,Presidential,"District Results",Falaba,North,Tarawally,Musa,CDP,F1C40F,"First Round",433,1.01,No,Final/Certified,musa-tarawally.jpg
+29126,7887,2018-03-07,Presidential,"District Results",Moyamba,South,Sowa,Mohamed,UDM,9900cc,"First Round",433,0.37,No,Final/Certified,mohamed-turay-sowa.png
+1707,36,2002-05-14,Presidential,"District Results",Kambia,North,Turay,Andrew,YPP,D3D3D3,"First Round",431,0.50,No,Final/Certified,
+29115,7887,2018-03-07,Presidential,"District Results",Kenema,East,Sowa,Mohamed,UDM,9900cc,"First Round",431,0.18,No,Final/Certified,mohamed-turay-sowa.png
+32116,36,2002-05-14,Presidential,"Regional Results",,East,Turay,Andrew,YPP,D3D3D3,"First Round",430,0.09,No,Final/Certified,
+5303,49,2012-11-17,Presidential,"District Results",Kambia,North,Conteh,"Kandeh Baba",PLP,F08080,"First Round",429,0.40,,Final/Certified,
+1644,36,2002-05-14,Presidential,"District Results","Port Loko",North,Turay,Andrew,YPP,D3D3D3,"First Round",429,0.40,No,Final/Certified,
+29089,7886,2018-03-07,Presidential,"District Results",Kambia,"North West",Ngobeh,Gbandi,RUFP,996633,"First Round",427,0.40,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+32156,31,2002-05-14,Presidential,"District Results","Western Area Urban",West,Kamara,Raymond,GAP,FFA07A,"First Round",421,0.33,No,Final/Certified,
+32239,52,2012-11-17,Presidential,"Regional Results",,West,Fullah,"James Obai",UNPP,CCCC00,"First Round",416,0.07,No,Final/Certified,
+28982,7881,2018-03-07,Presidential,"District Results",Moyamba,South,Bah,Mohamed,NDA,1F681B,"First Round",415,0.36,No,Final/Certified,mohamed-c-bah.jpg
+5305,48,2012-11-17,Presidential,"District Results",Kambia,North,Collins,Eldred,RUFP,996633,"First Round",415,0.40,,Final/Certified,Eldred-Collins.jpg
+32302,32245,2007-08-11,Presidential,"District Results",Tonkolili,North,Conteh,Kandeh,PLP,F08080,"First Round",412,0.35,No,Final/Certified,male-blank-profile-photo.png
+32200,46,2012-11-17,Presidential,"District Results",Kambia,North,Bangura,Mohamed,UDM,9900cc,"First Round",409,0.40,No,Final/Certified,mohamed-bangura.jpg
+5307,,2012-11-17,Presidential,"District Results",Kambia,North,,,,,"First Round",409,0.40,,Final/Certified,
+32205,46,2012-11-17,Presidential,"District Results",Kenema,East,Bangura,Mohamed,UDM,9900cc,"First Round",408,0.20,No,Final/Certified,mohamed-bangura.jpg
+29132,7888,2018-03-07,Presidential,"District Results",Kono,East,Kabuta,Henry,UNPP,CCCC00,"First Round",408,0.29,No,Final/Certified,henry-saa-kabuta.jpg
+1207,46,2012-11-17,Presidential,"District Results",Kono,,Bangura,Mohamed,UDM,9900cc,"First Round",407,0.40,,Final/Certified,mohamed-bangura.jpg
+32207,46,2012-11-17,Presidential,"District Results",Kono,East,Bangura,Mohamed,UDM,9900cc,"First Round",407,0.40,No,Final/Certified,mohamed-bangura.jpg
+32206,46,2012-11-17,Presidential,"District Results",Koinadugu,North,Bangura,Mohamed,UDM,9900cc,"First Round",404,0.40,No,Final/Certified,mohamed-bangura.jpg
+5316,,2012-11-17,Presidential,"District Results",Koinadugu,North,,,,,"First Round",404,0.40,,Final/Certified,
+5314,48,2012-11-17,Presidential,"District Results",Koinadugu,North,Collins,Eldred,RUFP,996633,"First Round",400,0.40,,Final/Certified,Eldred-Collins.jpg
+28942,7880,2018-03-07,Presidential,"District Results",Bo,South,Tarawally,Musa,CDP,F1C40F,"First Round",395,0.16,No,Final/Certified,musa-tarawally.jpg
+32323,32249,2007-08-11,Presidential,"District Results",Kailahun,East,Karim,Abdul,UNPP,CCCC00,"First Round",392,0.30,No,Final/Certified,
+29125,7887,2018-03-07,Presidential,"District Results",Bonthe,South,Sowa,Mohamed,UDM,9900cc,"First Round",390,0.50,No,Final/Certified,mohamed-turay-sowa.png
+5299,52,2012-11-17,Presidential,"District Results",Bombali,North,Fullah,"James Obai",UNPP,CCCC00,"First Round",389,0.20,No,Final/Certified,
+29190,,2018-03-07,Presidential,"Regional Results",,South,,,,,"First Round",386,0.10,No,Provisional,
+29065,51,2018-03-07,Presidential,"District Results","Western Area Urban",West,Margai,Charles,PMDC,F3881E,"First Round",385,0.08,No,Final/Certified,charles-francis-margai.jpg
+5295,51,2012-11-17,Presidential,"District Results",Bombali,North,Margai,Charles,PMDC,F3881E,"First Round",383,0.20,No,Final/Certified,charles-francis-margai.jpg
+28975,7881,2018-03-07,Presidential,"District Results",Koinadugu,North,Bah,Mohamed,NDA,1F681B,"First Round",381,0.63,No,Final/Certified,mohamed-c-bah.jpg
+1769,32,2002-05-14,Presidential,"District Results",Kailahun,East,Karefa-Smart,John,UNPP,CCCC00,"First Round",381,0.30,No,Final/Certified,karefa-smart.jpg
+5308,52,2012-11-17,Presidential,"District Results",Kambia,North,Fullah,"James Obai",UNPP,CCCC00,"First Round",371,0.30,,Final/Certified,
+29087,7886,2018-03-07,Presidential,"District Results",Koinadugu,North,Ngobeh,Gbandi,RUFP,996633,"First Round",370,0.61,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+29050,51,2018-03-07,Presidential,"District Results",Kailahun,East,Margai,Charles,PMDC,F3881E,"First Round",370,0.27,No,Final/Certified,charles-francis-margai.jpg
+5368,47,2012-11-17,Presidential,"District Results",Pujehun,South,Carew,"Joshua Albert",CDP,F1C40F,"First Round",369,0.50,,Final/Certified,Joshua-Carew-312x240.jpg
+29114,7887,2018-03-07,Presidential,"District Results",Kailahun,East,Sowa,Mohamed,UDM,9900cc,"First Round",367,0.27,No,Final/Certified,mohamed-turay-sowa.png
+1747,29,2002-05-14,Presidential,"District Results",Kenema,East,Bangura,Zainab,MOP,808080,"First Round",363,0.10,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+32127,35,2002-05-14,Presidential,"Regional Results",,South,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",363,0.07,No,Final/Certified,
+29139,7888,2018-03-07,Presidential,"District Results","Port Loko","North West",Kabuta,Henry,UNPP,CCCC00,"First Round",362,0.21,No,Final/Certified,henry-saa-kabuta.jpg
+29008,7882,2018-03-07,Presidential,"District Results",Tonkolili,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",359,0.23,No,Final/Certified,patrick-odwyer.jpg
+29008,7882,2018-03-07,Presidential,"District Results",Tonkolili,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",359,0.23,No,Final/Certified,patrick-odwyer.jpg
+32161,36,2002-05-14,Presidential,"District Results","Western Area Urban",West,Turay,Andrew,YPP,D3D3D3,"First Round",358,0.28,No,Final/Certified,
+29088,7886,2018-03-07,Presidential,"District Results",Tonkolili,North,Ngobeh,Gbandi,RUFP,996633,"First Round",351,0.22,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+991,46,2012-11-17,Presidential,"District Results",Kailahun,,Bangura,Mohamed,UDM,9900cc,"First Round",347,0.30,,Final/Certified,mohamed-bangura.jpg
+28974,7881,2018-03-07,Presidential,"District Results",Falaba,East,Bah,Mohamed,NDA,1F681B,"First Round",347,0.81,No,Final/Certified,mohamed-c-bah.jpg
+5391,49,2012-11-17,Presidential,"District Results","Western Area Urban","North West",Conteh,"Kandeh Baba",PLP,F08080,"First Round",346,0.10,,Final/Certified,
+29086,7886,2018-03-07,Presidential,"District Results",Falaba,North,Ngobeh,Gbandi,RUFP,996633,"First Round",346,0.81,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+1673,36,2002-05-14,Presidential,"District Results",Koinadugu,North,Turay,Andrew,YPP,D3D3D3,"First Round",346,0.50,No,Final/Certified,
+29004,7882,2018-03-07,Presidential,"District Results",Kono,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",342,0.25,No,Final/Certified,patrick-odwyer.jpg
+29004,7882,2018-03-07,Presidential,"District Results",Kono,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",342,0.25,No,Final/Certified,patrick-odwyer.jpg
+32155,35,2002-05-14,Presidential,"District Results","Western Area Urban",West,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",342,0.27,No,Final/Certified,
+29052,51,2018-03-07,Presidential,"District Results",Kono,East,Margai,Charles,PMDC,F3881E,"First Round",341,0.24,No,Final/Certified,charles-francis-margai.jpg
+5335,52,2012-11-17,Presidential,"District Results",Tonkolili,North,Fullah,"James Obai",UNPP,CCCC00,"First Round",340,0.20,,Final/Certified,
+5346,47,2012-11-17,Presidential,"District Results",Bonthe,South,Carew,"Joshua Albert",CDP,F1C40F,"First Round",336,0.50,,Final/Certified,Joshua-Carew-312x240.jpg
+5382,48,2012-11-17,Presidential,"District Results","Western Area Rural",West,Collins,Eldred,RUFP,996633,"First Round",334,0.20,,Final/Certified,Eldred-Collins.jpg
+29039,7883,2018-03-07,Presidential,"District Results",Koinadugu,North,Conteh,Kandeh,PLP,F08080,"First Round",331,0.55,No,Final/Certified,dr-baba-kandeh.jpg
+29057,51,2018-03-07,Presidential,"District Results",Kambia,"North West",Margai,Charles,PMDC,F3881E,"First Round",326,0.30,No,Final/Certified,charles-francis-margai.jpg
+28962,7879,2018-03-07,Presidential,"District Results",Karene,"North West",Sam-Sumana,Samuel,C4C,D68910,"First Round",325,0.41,No,Final/Certified,samuel-sam-sumana.jpg
+29040,7883,2018-03-07,Presidential,"District Results",Tonkolili,North,Conteh,Kandeh,PLP,F08080,"First Round",324,0.20,No,Final/Certified,dr-baba-kandeh.jpg
+29017,7882,2018-03-07,Presidential,"District Results","Western Area Urban",West,O'Dwyer,Patrick,NPD,3498DB,"First Round",323,0.06,No,Final/Certified,patrick-odwyer.jpg
+29017,7882,2018-03-07,Presidential,"District Results","Western Area Urban",West,O'Dwyer,Patrick,NPD,3498DB,"First Round",323,0.06,No,Final/Certified,patrick-odwyer.jpg
+32346,7890,2018-03-07,Presidential,"District Results",Kambia,"North West",Sandy,"Jonathan Patrick",NURP,343a40,"First Round",322,0.30,No,Final/Certified,"jonathan sandy.png"
+5270,52,2012-11-17,Presidential,"District Results",Kailahun,East,Fullah,"James Obai",UNPP,CCCC00,"First Round",322,0.30,,Final/Certified,
+5371,49,2012-11-17,Presidential,"District Results",Pujehun,South,Conteh,"Kandeh Baba",PLP,F08080,"First Round",322,0.50,,Final/Certified,
+5370,50,2012-11-17,Presidential,"District Results",Pujehun,South,Kamara,Gibrilla,PDP,1E90FF,"First Round",321,0.50,,Final/Certified,
+29036,7883,2018-03-07,Presidential,"District Results",Kono,East,Conteh,Kandeh,PLP,F08080,"First Round",321,0.23,No,Final/Certified,dr-baba-kandeh.jpg
+5379,50,2012-11-17,Presidential,"District Results","Western Area Rural",West,Kamara,Gibrilla,PDP,1E90FF,"First Round",318,0.20,,Final/Certified,
+5347,50,2012-11-17,Presidential,"District Results",Bonthe,South,Kamara,Gibrilla,PDP,1E90FF,"First Round",314,0.50,,Final/Certified,
+5296,48,2012-11-17,Presidential,"District Results",Bombali,North,Collins,Eldred,RUFP,996633,"First Round",314,0.20,No,Final/Certified,Eldred-Collins.jpg
+5344,52,2012-11-17,Presidential,"District Results",Bo,South,Fullah,"James Obai",UNPP,CCCC00,"First Round",310,0.10,No,Final/Certified,
+1746,31,2002-05-14,Presidential,"District Results",Kenema,East,Kamara,Raymond,GAP,FFA07A,"First Round",307,0.10,No,Final/Certified,
+5294,49,2012-11-17,Presidential,"District Results",Bombali,North,Conteh,"Kandeh Baba",PLP,F08080,"First Round",306,0.20,No,Final/Certified,
+32211,46,2012-11-17,Presidential,"District Results",Tonkolili,North,Bangura,Mohamed,UDM,9900cc,"First Round",305,0.20,No,Final/Certified,mohamed-bangura.jpg
+5334,,2012-11-17,Presidential,"District Results",Tonkolili,North,,,,,"First Round",305,0.20,,Final/Certified,
+29038,7883,2018-03-07,Presidential,"District Results",Falaba,East,Conteh,Kandeh,PLP,F08080,"First Round",302,0.71,No,Final/Certified,dr-baba-kandeh.jpg
+32335,32249,2007-08-11,Presidential,"District Results","Western Area Rural",West,Karim,Abdul,UNPP,CCCC00,"First Round",299,0.38,No,Final/Certified,
+5330,49,2012-11-17,Presidential,"District Results",Tonkolili,North,Conteh,"Kandeh Baba",PLP,F08080,"First Round",294,0.20,,Final/Certified,
+5348,49,2012-11-17,Presidential,"District Results",Bonthe,South,Conteh,"Kandeh Baba",PLP,F08080,"First Round",292,0.40,,Final/Certified,
+28914,7878,2018-03-07,Presidential,"District Results",Pujehun,South,Mansaray,Mohamed,ADP,FF339F,"First Round",292,0.36,No,Final/Certified,mohamed-kamaraimba-mansaray.jpg
+32198,46,2012-11-17,Presidential,"District Results",Bombali,North,Bangura,Mohamed,UDM,9900cc,"First Round",291,0.20,No,Final/Certified,mohamed-bangura.jpg
+5298,,2012-11-17,Presidential,"District Results",Bombali,North,,,,,"First Round",291,0.20,,Final/Certified,
+1755,31,2002-05-14,Presidential,"District Results",Kono,East,Kamara,Raymond,GAP,FFA07A,"First Round",290,0.30,No,Final/Certified,
+32307,32245,2007-08-11,Presidential,"District Results","Western Area Rural",West,Conteh,Kandeh,PLP,F08080,"First Round",288,0.37,No,Final/Certified,male-blank-profile-photo.png
+29127,7887,2018-03-07,Presidential,"District Results",Pujehun,South,Sowa,Mohamed,UDM,9900cc,"First Round",285,0.35,No,Final/Certified,mohamed-turay-sowa.png
+1711,29,2002-05-14,Presidential,"District Results",Bo,South,Bangura,Zainab,MOP,808080,"First Round",284,0.10,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+29161,7889,2018-03-07,Presidential,"District Results","Western Area Urban",West,Claudius-Cole,Olufemi,UP,99ccff,"First Round",283,0.06,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+28967,7879,2018-03-07,Presidential,"District Results",Pujehun,South,Sam-Sumana,Samuel,C4C,D68910,"First Round",277,0.34,No,Final/Certified,samuel-sam-sumana.jpg
+29137,7888,2018-03-07,Presidential,"District Results",Kambia,"North West",Kabuta,Henry,UNPP,CCCC00,"First Round",266,0.25,No,Final/Certified,henry-saa-kabuta.jpg
+29025,,2018-03-07,Presidential,"District Results",Kambia,"North West",,,,,"First Round",265,0.31,No,Provisional,
+5395,,2012-11-17,Presidential,"District Results","Western Area Urban","North West",,,,,"First Round",261,0.10,,Final/Certified,
+5332,48,2012-11-17,Presidential,"District Results",Tonkolili,North,Collins,Eldred,RUFP,996633,"First Round",261,0.20,,Final/Certified,Eldred-Collins.jpg
+32213,46,2012-11-17,Presidential,"District Results","Western Area Urban",West,Bangura,Mohamed,UDM,9900cc,"First Round",261,0.10,No,Final/Certified,mohamed-bangura.jpg
+29064,51,2018-03-07,Presidential,"District Results","Western Area Rural",West,Margai,Charles,PMDC,F3881E,"First Round",258,0.12,No,Final/Certified,charles-francis-margai.jpg
+29046,7883,2018-03-07,Presidential,"District Results",Moyamba,South,Conteh,Kandeh,PLP,F08080,"First Round",255,0.22,No,Final/Certified,dr-baba-kandeh.jpg
+5380,49,2012-11-17,Presidential,"District Results","Western Area Rural",West,Conteh,"Kandeh Baba",PLP,F08080,"First Round",253,0.20,,Final/Certified,
+29066,7885,2018-03-07,Presidential,"District Results",Kailahun,East,Williams,Beresford,ReNIP,343a40,"First Round",250,0.18,No,Final/Certified,male-blank-profile-photo.png
+5281,52,2012-11-17,Presidential,"District Results",Kenema,East,Fullah,"James Obai",UNPP,CCCC00,"First Round",248,0.10,,Final/Certified,
+29014,7882,2018-03-07,Presidential,"District Results",Moyamba,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",246,0.21,No,Final/Certified,patrick-odwyer.jpg
+29014,7882,2018-03-07,Presidential,"District Results",Moyamba,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",246,0.21,No,Final/Certified,patrick-odwyer.jpg
+28965,7879,2018-03-07,Presidential,"District Results",Bonthe,South,Sam-Sumana,Samuel,C4C,D68910,"First Round",242,0.31,No,Final/Certified,samuel-sam-sumana.jpg
+29016,7882,2018-03-07,Presidential,"District Results","Western Area Rural",West,O'Dwyer,Patrick,NPD,3498DB,"First Round",242,0.11,No,Final/Certified,patrick-odwyer.jpg
+29016,7882,2018-03-07,Presidential,"District Results","Western Area Rural",West,O'Dwyer,Patrick,NPD,3498DB,"First Round",242,0.11,No,Final/Certified,patrick-odwyer.jpg
+29002,7882,2018-03-07,Presidential,"District Results",Kailahun,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",241,0.18,No,Final/Certified,patrick-odwyer.jpg
+29002,7882,2018-03-07,Presidential,"District Results",Kailahun,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",241,0.18,No,Final/Certified,patrick-odwyer.jpg
+1754,35,2002-05-14,Presidential,"District Results",Kono,East,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",240,0.20,No,Final/Certified,
+29059,51,2018-03-07,Presidential,"District Results","Port Loko","North West",Margai,Charles,PMDC,F3881E,"First Round",240,0.14,No,Final/Certified,charles-francis-margai.jpg
+29150,7889,2018-03-07,Presidential,"District Results",Falaba,North,Claudius-Cole,Olufemi,UP,99ccff,"First Round",236,0.55,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29078,7885,2018-03-07,Presidential,"District Results",Moyamba,South,Williams,Beresford,ReNIP,343a40,"First Round",233,0.20,No,Final/Certified,male-blank-profile-photo.png
+5396,52,2012-11-17,Presidential,"District Results","Western Area Urban","North West",Fullah,"James Obai",UNPP,CCCC00,"First Round",233,0.10,,Final/Certified,
+29068,7885,2018-03-07,Presidential,"District Results",Kono,East,Williams,Beresford,ReNIP,343a40,"First Round",233,0.17,No,Final/Certified,male-blank-profile-photo.png
+1730,34,2002-05-14,Presidential,"District Results",Pujehun,South,Koroma,"Johnny Paul",PLP,F08080,"First Round",230,0.20,No,Final/Certified,
+28943,7880,2018-03-07,Presidential,"District Results",Bonthe,South,Tarawally,Musa,CDP,F1C40F,"First Round",229,0.30,No,Final/Certified,musa-tarawally.jpg
+29007,7882,2018-03-07,Presidential,"District Results",Koinadugu,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",227,0.38,No,Final/Certified,patrick-odwyer.jpg
+29007,7882,2018-03-07,Presidential,"District Results",Koinadugu,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",227,0.38,No,Final/Certified,patrick-odwyer.jpg
+28973,7881,2018-03-07,Presidential,"District Results",Bombali,North,Bah,Mohamed,NDA,1F681B,"First Round",226,0.15,No,Final/Certified,mohamed-c-bah.jpg
+29006,7882,2018-03-07,Presidential,"District Results",Falaba,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",226,0.53,No,Final/Certified,patrick-odwyer.jpg
+29006,7882,2018-03-07,Presidential,"District Results",Falaba,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",226,0.53,No,Final/Certified,patrick-odwyer.jpg
+29073,7885,2018-03-07,Presidential,"District Results",Kambia,"North West",Williams,Beresford,ReNIP,343a40,"First Round",224,0.21,No,Final/Certified,male-blank-profile-photo.png
+29035,7883,2018-03-07,Presidential,"District Results",Kenema,East,Conteh,Kandeh,PLP,F08080,"First Round",224,0.10,No,Final/Certified,dr-baba-kandeh.jpg
+29044,7883,2018-03-07,Presidential,"District Results",Bo,South,Conteh,Kandeh,PLP,F08080,"First Round",224,0.09,No,Final/Certified,dr-baba-kandeh.jpg
+29136,7888,2018-03-07,Presidential,"District Results",Tonkolili,North,Kabuta,Henry,UNPP,CCCC00,"First Round",223,0.14,No,Final/Certified,henry-saa-kabuta.jpg
+28912,7878,2018-03-07,Presidential,"District Results",Bonthe,South,Mansaray,Mohamed,ADP,FF339F,"First Round",222,0.37,No,Provisional,mohamed-kamaraimba-mansaray.jpg
+29034,7883,2018-03-07,Presidential,"District Results",Kailahun,East,Conteh,Kandeh,PLP,F08080,"First Round",220,0.16,No,Final/Certified,dr-baba-kandeh.jpg
+1765,29,2002-05-14,Presidential,"District Results",Kailahun,East,Bangura,Zainab,MOP,808080,"First Round",220,0.20,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+29123,7887,2018-03-07,Presidential,"District Results","Port Loko","North West",Sowa,Mohamed,UDM,9900cc,"First Round",219,0.13,No,Final/Certified,mohamed-turay-sowa.png
+5353,,2012-11-17,Presidential,"District Results",Bonthe,South,,,,,"First Round",218,0.30,,Final/Certified,
+32199,46,2012-11-17,Presidential,"District Results",Bonthe,South,Bangura,Mohamed,UDM,9900cc,"First Round",218,0.30,No,Final/Certified,mohamed-bangura.jpg
+29076,7885,2018-03-07,Presidential,"District Results",Bo,South,Williams,Beresford,ReNIP,343a40,"First Round",217,0.09,No,Final/Certified,male-blank-profile-photo.png
+29128,7887,2018-03-07,Presidential,"District Results","Western Area Rural",West,Sowa,Mohamed,UDM,9900cc,"First Round",216,0.10,No,Final/Certified,mohamed-turay-sowa.png
+29142,7888,2018-03-07,Presidential,"District Results",Moyamba,South,Kabuta,Henry,UNPP,CCCC00,"First Round",215,0.18,No,Final/Certified,henry-saa-kabuta.jpg
+28978,7881,2018-03-07,Presidential,"District Results",Karene,"North West",Bah,Mohamed,NDA,1F681B,"First Round",212,0.26,No,Final/Certified,mohamed-c-bah.jpg
+29246,7888,2018-03-07,Presidential,"Regional Results",,West,Kabuta,Henry,UNPP,CCCC00,"First Round",211,0.03,No,Final/Certified,henry-saa-kabuta.jpg
+29056,51,2018-03-07,Presidential,"District Results",Tonkolili,North,Margai,Charles,PMDC,F3881E,"First Round",210,0.13,No,Final/Certified,charles-francis-margai.jpg
+32210,46,2012-11-17,Presidential,"District Results",Pujehun,South,Bangura,Mohamed,UDM,9900cc,"First Round",209,0.30,No,Final/Certified,mohamed-bangura.jpg
+29196,7883,2018-03-07,Presidential,"Regional Results",,West,Conteh,Kandeh,PLP,F08080,"First Round",209,0.03,No,Final/Certified,dr-baba-kandeh.jpg
+5375,,2012-11-17,Presidential,"District Results",Pujehun,South,,,,,"First Round",209,0.30,,Final/Certified,
+29027,,2018-03-07,Presidential,"District Results","Port Loko","North West",,,,,"First Round",207,0.15,No,Provisional,
+29067,7885,2018-03-07,Presidential,"District Results",Kenema,East,Williams,Beresford,ReNIP,343a40,"First Round",206,0.09,No,Final/Certified,male-blank-profile-photo.png
+29003,7882,2018-03-07,Presidential,"District Results",Kenema,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",205,0.09,No,Final/Certified,patrick-odwyer.jpg
+32134,36,2002-05-14,Presidential,"Regional Results",,South,Turay,Andrew,YPP,D3D3D3,"First Round",205,0.04,No,Final/Certified,
+29003,7882,2018-03-07,Presidential,"District Results",Kenema,East,O'Dwyer,Patrick,NPD,3498DB,"First Round",205,0.09,No,Final/Certified,patrick-odwyer.jpg
+28983,7881,2018-03-07,Presidential,"District Results",Pujehun,South,Bah,Mohamed,NDA,1F681B,"First Round",204,0.25,No,Final/Certified,mohamed-c-bah.jpg
+29152,7889,2018-03-07,Presidential,"District Results",Tonkolili,North,Claudius-Cole,Olufemi,UP,99ccff,"First Round",204,0.13,No,Provisional,olufemi-josephine-claudius-cole.jpg
+32341,7890,2018-03-07,Presidential,"District Results",Kono,East,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",203,0.15,No,Final/Certified,"jonathan sandy.png"
+29134,7888,2018-03-07,Presidential,"District Results",Falaba,North,Kabuta,Henry,UNPP,CCCC00,"First Round",200,0.47,No,Final/Certified,henry-saa-kabuta.jpg
+1710,31,2002-05-14,Presidential,"District Results",Bo,South,Kamara,Raymond,GAP,FFA07A,"First Round",197,0.10,No,Final/Certified,
+29075,7885,2018-03-07,Presidential,"District Results","Port Loko","North West",Williams,Beresford,ReNIP,343a40,"First Round",197,0.11,No,Final/Certified,male-blank-profile-photo.png
+32345,7890,2018-03-07,Presidential,"District Results",Tonkolili,North,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",196,0.12,No,Final/Certified,"jonathan sandy.png"
+1752,36,2002-05-14,Presidential,"District Results",Kenema,East,Turay,Andrew,YPP,D3D3D3,"First Round",195,0.10,No,Final/Certified,
+29130,7888,2018-03-07,Presidential,"District Results",Kailahun,East,Kabuta,Henry,UNPP,CCCC00,"First Round",195,0.14,No,Final/Certified,henry-saa-kabuta.jpg
+29158,7889,2018-03-07,Presidential,"District Results",Moyamba,South,Claudius-Cole,Olufemi,UP,99ccff,"First Round",194,0.17,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29012,7882,2018-03-07,Presidential,"District Results",Bo,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",193,0.08,No,Final/Certified,patrick-odwyer.jpg
+29012,7882,2018-03-07,Presidential,"District Results",Bo,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",193,0.08,No,Final/Certified,patrick-odwyer.jpg
+29120,7887,2018-03-07,Presidential,"District Results",Tonkolili,North,Sowa,Mohamed,UDM,9900cc,"First Round",193,0.12,No,Final/Certified,mohamed-turay-sowa.png
+29140,7888,2018-03-07,Presidential,"District Results",Bo,South,Kabuta,Henry,UNPP,CCCC00,"First Round",193,0.08,No,Final/Certified,henry-saa-kabuta.jpg
+29153,7889,2018-03-07,Presidential,"District Results",Kambia,"North West",Claudius-Cole,Olufemi,UP,99ccff,"First Round",191,0.18,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+1764,31,2002-05-14,Presidential,"District Results",Kailahun,East,Kamara,Raymond,GAP,FFA07A,"First Round",190,0.20,No,Final/Certified,
+1745,35,2002-05-14,Presidential,"District Results",Kenema,East,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",188,0.10,No,Final/Certified,
+32351,7890,2018-03-07,Presidential,"District Results",Moyamba,South,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",185,0.16,No,Final/Certified,"jonathan sandy.png"
+29759,7890,2018-03-07,Presidential,"Regional Results",,West,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",183,0.02,No,Final/Certified,"jonathan sandy.png"
+5385,52,2012-11-17,Presidential,"District Results","Western Area Rural",West,Fullah,"James Obai",UNPP,CCCC00,"First Round",183,0.10,,Final/Certified,
+29090,7886,2018-03-07,Presidential,"District Results",Karene,"North West",Ngobeh,Gbandi,RUFP,996633,"First Round",180,0.22,No,Final/Certified,gbandi-jemba-ngobeh.jpg
+1718,35,2002-05-14,Presidential,"District Results",Moyamba,South,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",178,0.20,No,Final/Certified,
+29156,7889,2018-03-07,Presidential,"District Results",Bo,South,Claudius-Cole,Olufemi,UP,99ccff,"First Round",178,0.07,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29160,7889,2018-03-07,Presidential,"District Results","Western Area Rural",West,Claudius-Cole,Olufemi,UP,99ccff,"First Round",177,0.08,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29215,7885,2018-03-07,Presidential,"Regional Results",,West,Williams,Beresford,ReNIP,343a40,"First Round",177,0.02,No,Final/Certified,male-blank-profile-photo.png
+5384,,2012-11-17,Presidential,"District Results","Western Area Rural",West,,,,,"First Round",175,0.10,,Final/Certified,
+32212,46,2012-11-17,Presidential,"District Results","Western Area Rural",West,Bangura,Mohamed,UDM,9900cc,"First Round",175,0.10,No,Final/Certified,mohamed-bangura.jpg
+28946,7880,2018-03-07,Presidential,"District Results",Pujehun,South,Tarawally,Musa,CDP,F1C40F,"First Round",174,0.21,No,Final/Certified,musa-tarawally.jpg
+29071,7885,2018-03-07,Presidential,"District Results",Koinadugu,North,Williams,Beresford,ReNIP,343a40,"First Round",173,0.29,No,Final/Certified,male-blank-profile-photo.png
+29042,7883,2018-03-07,Presidential,"District Results",Karene,"North West",Conteh,Kandeh,PLP,F08080,"First Round",173,0.22,No,Final/Certified,dr-baba-kandeh.jpg
+29151,7889,2018-03-07,Presidential,"District Results",Koinadugu,North,Claudius-Cole,Olufemi,UP,99ccff,"First Round",172,0.28,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29118,7887,2018-03-07,Presidential,"District Results",Falaba,North,Sowa,Mohamed,UDM,9900cc,"First Round",171,0.40,No,Final/Certified,mohamed-turay-sowa.png
+32334,32249,2007-08-11,Presidential,"District Results",Pujehun,South,Karim,Abdul,UNPP,CCCC00,"First Round",166,0.25,No,Final/Certified,
+29135,7888,2018-03-07,Presidential,"District Results",Koinadugu,North,Kabuta,Henry,UNPP,CCCC00,"First Round",166,0.27,No,Final/Certified,henry-saa-kabuta.jpg
+32332,32249,2007-08-11,Presidential,"District Results",Bonthe,South,Karim,Abdul,UNPP,CCCC00,"First Round",164,0.31,No,Final/Certified,
+32337,7890,2018-03-07,Presidential,"District Results",Bo,South,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",163,0.07,No,Final/Certified,"jonathan sandy.png"
+29119,7887,2018-03-07,Presidential,"District Results",Koinadugu,North,Sowa,Mohamed,UDM,9900cc,"First Round",161,0.27,No,Final/Certified,mohamed-turay-sowa.png
+29121,7887,2018-03-07,Presidential,"District Results",Kambia,"North West",Sowa,Mohamed,UDM,9900cc,"First Round",161,0.15,No,Final/Certified,mohamed-turay-sowa.png
+29131,7888,2018-03-07,Presidential,"District Results",Kenema,East,Kabuta,Henry,UNPP,CCCC00,"First Round",157,0.07,No,Final/Certified,henry-saa-kabuta.jpg
+29024,,2018-03-07,Presidential,"District Results",Tonkolili,North,,,,,"First Round",155,0.13,No,Provisional,
+1709,35,2002-05-14,Presidential,"District Results",Bo,South,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",154,0.10,No,Final/Certified,
+32340,7890,2018-03-07,Presidential,"District Results",Kenema,East,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",152,0.07,No,Final/Certified,"jonathan sandy.png"
+29149,7889,2018-03-07,Presidential,"District Results",Bombali,North,Claudius-Cole,Olufemi,UP,99ccff,"First Round",151,0.10,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+1733,32,2002-05-14,Presidential,"District Results",Pujehun,South,Karefa-Smart,John,UNPP,CCCC00,"First Round",148,0.10,No,Final/Certified,karefa-smart.jpg
+28954,7890,2018-03-07,Presidential,"District Results",Kailahun,East,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",145,0.11,No,Final/Certified,"jonathan sandy.png"
+29191,,2018-03-07,Presidential,"Regional Results",,West,,,,,"First Round",144,0.03,No,Provisional,
+29020,,2018-03-07,Presidential,"District Results",Kono,East,,,,,"First Round",143,0.13,No,Provisional,
+5354,52,2012-11-17,Presidential,"District Results",Bonthe,South,Fullah,"James Obai",UNPP,CCCC00,"First Round",142,0.18,,Final/Certified,
+29072,7885,2018-03-07,Presidential,"District Results",Tonkolili,North,Williams,Beresford,ReNIP,343a40,"First Round",142,0.09,No,Final/Certified,male-blank-profile-photo.png
+29147,7889,2018-03-07,Presidential,"District Results",Kenema,East,Claudius-Cole,Olufemi,UP,99ccff,"First Round",141,0.06,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29030,,2018-03-07,Presidential,"District Results",Moyamba,South,,,,,"First Round",140,203.00,No,Provisional,
+29055,51,2018-03-07,Presidential,"District Results",Koinadugu,North,Margai,Charles,PMDC,F3881E,"First Round",139,0.23,No,Final/Certified,charles-francis-margai.jpg
+28981,7881,2018-03-07,Presidential,"District Results",Bonthe,South,Bah,Mohamed,NDA,1F681B,"First Round",138,0.18,No,Final/Certified,mohamed-c-bah.jpg
+29070,7885,2018-03-07,Presidential,"District Results",Falaba,North,Williams,Beresford,ReNIP,343a40,"First Round",138,0.32,No,Final/Certified,male-blank-profile-photo.png
+1763,35,2002-05-14,Presidential,"District Results",Kailahun,East,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",138,0.10,No,Final/Certified,
+29085,7886,2018-03-07,Presidential,"District Results",Bombali,North,Ngobeh,Gbandi,RUFP,996633,"First Round",137,0.11,No,Provisional,gbandi-jemba-ngobeh.jpg
+1735,33,2002-05-14,Presidential,"District Results",Bonthe,,"Bai Koroma",Ernest,APC,FF333C,"First Round",134,0.20,,Final/Certified,Ernest-Bai-Koroma.jpg
+29054,51,2018-03-07,Presidential,"District Results",Falaba,North,Margai,Charles,PMDC,F3881E,"First Round",134,0.31,No,Final/Certified,charles-francis-margai.jpg
+29079,7885,2018-03-07,Presidential,"District Results",Pujehun,South,Williams,Beresford,ReNIP,343a40,"First Round",133,0.16,No,Final/Certified,male-blank-profile-photo.png
+29143,7888,2018-03-07,Presidential,"District Results",Pujehun,South,Kabuta,Henry,UNPP,CCCC00,"First Round",130,0.16,No,Final/Certified,henry-saa-kabuta.jpg
+29019,,2018-03-07,Presidential,"District Results",Kenema,East,,,,,"First Round",130,0.07,No,Provisional,
+29133,7888,2018-03-07,Presidential,"District Results",Bombali,North,Kabuta,Henry,UNPP,CCCC00,"First Round",128,0.08,No,Final/Certified,henry-saa-kabuta.jpg
+29138,7888,2018-03-07,Presidential,"District Results",Karene,"North West",Kabuta,Henry,UNPP,CCCC00,"First Round",128,0.16,No,Final/Certified,henry-saa-kabuta.jpg
+29028,,2018-03-07,Presidential,"District Results",Bo,South,,,,,"First Round",128,0.07,No,Provisional,
+29154,7889,2018-03-07,Presidential,"District Results",Karene,"North West",Claudius-Cole,Olufemi,UP,99ccff,"First Round",124,0.15,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+1726,33,2002-05-14,Presidential,"District Results",Pujehun,South,"Bai Koroma",Ernest,APC,FF333C,"First Round",123,0.10,No,Final/Certified,Ernest-Bai-Koroma.jpg
+32343,7890,2018-03-07,Presidential,"District Results",Falaba,North,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",122,0.29,No,Final/Certified,"jonathan sandy.png"
+29037,7883,2018-03-07,Presidential,"District Results",Bombali,North,Conteh,Kandeh,PLP,F08080,"First Round",121,0.08,No,Final/Certified,dr-baba-kandeh.jpg
+1761,36,2002-05-14,Presidential,"District Results",Kono,East,Turay,Andrew,YPP,D3D3D3,"First Round",121,0.10,No,Final/Certified,
+29005,7882,2018-03-07,Presidential,"District Results",Bombali,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",119,0.08,No,Final/Certified,patrick-odwyer.jpg
+29005,7882,2018-03-07,Presidential,"District Results",Bombali,North,O'Dwyer,Patrick,NPD,3498DB,"First Round",119,0.08,No,Final/Certified,patrick-odwyer.jpg
+29010,7882,2018-03-07,Presidential,"District Results",Karene,"North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",119,0.15,No,Final/Certified,patrick-odwyer.jpg
+29010,7882,2018-03-07,Presidential,"District Results",Karene,"North West",O'Dwyer,Patrick,NPD,3498DB,"First Round",119,0.15,No,Final/Certified,patrick-odwyer.jpg
+1742,32,2002-05-14,Presidential,"District Results",Bonthe,South,Karefa-Smart,John,UNPP,CCCC00,"First Round",117,0.20,No,Final/Certified,karefa-smart.jpg
+29047,7883,2018-03-07,Presidential,"District Results",Pujehun,South,Conteh,Kandeh,PLP,F08080,"First Round",117,0.14,No,Final/Certified,dr-baba-kandeh.jpg
+29048,7883,2018-03-07,Presidential,"District Results","Western Area Rural",West,Conteh,Kandeh,PLP,F08080,"First Round",116,0.05,No,Final/Certified,dr-baba-kandeh.jpg
+32344,7890,2018-03-07,Presidential,"District Results",Koinadugu,North,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",115,0.19,No,Final/Certified,"jonathan sandy.png"
+1770,36,2002-05-14,Presidential,"District Results",Kailahun,East,Turay,Andrew,YPP,D3D3D3,"First Round",114,0.10,No,Final/Certified,
+5376,52,2012-11-17,Presidential,"District Results",Pujehun,South,Fullah,"James Obai",UNPP,CCCC00,"First Round",113,0.20,,Final/Certified,
+29013,7882,2018-03-07,Presidential,"District Results",Bonthe,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",108,0.14,No,Final/Certified,patrick-odwyer.jpg
+29013,7882,2018-03-07,Presidential,"District Results",Bonthe,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",108,0.14,No,Final/Certified,patrick-odwyer.jpg
+29145,7888,2018-03-07,Presidential,"District Results","Western Area Urban",West,Kabuta,Henry,UNPP,CCCC00,"First Round",107,0.02,No,Final/Certified,henry-saa-kabuta.jpg
+1740,28,2002-05-14,Presidential,"District Results",Bonthe,South,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",105,0.20,No,Final/Certified,pallo-bangura.jpg
+29144,7888,2018-03-07,Presidential,"District Results","Western Area Rural",West,Kabuta,Henry,UNPP,CCCC00,"First Round",104,0.05,No,Final/Certified,henry-saa-kabuta.jpg
+29159,7889,2018-03-07,Presidential,"District Results",Pujehun,South,Claudius-Cole,Olufemi,UP,99ccff,"First Round",102,0.12,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29022,,2018-03-07,Presidential,"District Results",Falaba,North,,,,,"First Round",101,0.31,No,Provisional,
+29045,7883,2018-03-07,Presidential,"District Results",Bonthe,South,Conteh,Kandeh,PLP,F08080,"First Round",98,0.13,No,Final/Certified,dr-baba-kandeh.jpg
+32354,7890,2018-03-07,Presidential,"District Results","Western Area Urban",West,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",98,0.02,No,Final/Certified,"jonathan sandy.png"
+1731,28,2002-05-14,Presidential,"District Results",Pujehun,,Bangura,"Alimamy Pallo",RUFP,996633,"First Round",97,0.10,No,Final/Certified,pallo-bangura.jpg
+29018,,2018-03-07,Presidential,"District Results",Kailahun,East,,,,,"First Round",95,0.09,No,Provisional,
+29015,7882,2018-03-07,Presidential,"District Results",Pujehun,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",93,0.11,No,Final/Certified,patrick-odwyer.jpg
+29049,7883,2018-03-07,Presidential,"District Results","Western Area Urban",West,Conteh,Kandeh,PLP,F08080,"First Round",93,0.02,No,Final/Certified,dr-baba-kandeh.jpg
+1716,36,2002-05-14,Presidential,"District Results",Bo,South,Turay,Andrew,YPP,D3D3D3,"First Round",93,0.00,No,Final/Certified,
+29015,7882,2018-03-07,Presidential,"District Results",Pujehun,South,O'Dwyer,Patrick,NPD,3498DB,"First Round",93,0.11,No,Final/Certified,patrick-odwyer.jpg
+29053,51,2018-03-07,Presidential,"District Results",Bombali,North,Margai,Charles,PMDC,F3881E,"First Round",91,0.06,No,Final/Certified,charles-francis-margai.jpg
+29081,7885,2018-03-07,Presidential,"District Results","Western Area Urban",West,Williams,Beresford,ReNIP,343a40,"First Round",89,0.02,No,Final/Certified,male-blank-profile-photo.png
+29023,,2018-03-07,Presidential,"District Results",Koinadugu,North,,,,,"First Round",88,0.19,No,Provisional,
+29080,7885,2018-03-07,Presidential,"District Results","Western Area Rural",West,Williams,Beresford,ReNIP,343a40,"First Round",88,0.04,No,Final/Certified,male-blank-profile-photo.png
+1738,29,2002-05-14,Presidential,"District Results",Bonthe,South,Bangura,Zainab,MOP,808080,"First Round",86,0.10,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+32353,7890,2018-03-07,Presidential,"District Results","Western Area Rural",West,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",85,0.04,No,Final/Certified,"jonathan sandy.png"
+29077,7885,2018-03-07,Presidential,"District Results",Bonthe,South,Williams,Beresford,ReNIP,343a40,"First Round",83,0.11,No,Final/Certified,male-blank-profile-photo.png
+29058,51,2018-03-07,Presidential,"District Results",Karene,"North West",Margai,Charles,PMDC,F3881E,"First Round",83,0.10,No,Final/Certified,charles-francis-margai.jpg
+1725,36,2002-05-14,Presidential,"District Results",Moyamba,South,Turay,Andrew,YPP,D3D3D3,"First Round",81,0.10,No,Final/Certified,
+29141,7888,2018-03-07,Presidential,"District Results",Bonthe,South,Kabuta,Henry,UNPP,CCCC00,"First Round",79,0.10,No,Final/Certified,henry-saa-kabuta.jpg
+29033,,2018-03-07,Presidential,"District Results","Western Area Urban",West,,,,,"First Round",78,0.02,No,Provisional,
+32342,7890,2018-03-07,Presidential,"District Results",Bombali,North,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",77,0.05,No,Final/Certified,"jonathan sandy.png"
+29117,7887,2018-03-07,Presidential,"District Results",Bombali,North,Sowa,Mohamed,UDM,9900cc,"First Round",74,0.05,No,Final/Certified,mohamed-turay-sowa.png
+32350,7890,2018-03-07,Presidential,"District Results",Bonthe,South,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",73,0.09,No,Final/Certified,"jonathan sandy.png"
+32352,7890,2018-03-07,Presidential,"District Results",Pujehun,South,Sandy,"Jonathan Patrick",NURP,343a40,"First Round",70,0.09,No,Final/Certified,"jonathan sandy.png"
+29069,7885,2018-03-07,Presidential,"District Results",Bombali,North,Williams,Beresford,ReNIP,343a40,"First Round",69,0.05,No,Final/Certified,male-blank-profile-photo.png
+29074,7885,2018-03-07,Presidential,"District Results",Karene,"North West",Williams,Beresford,ReNIP,343a40,"First Round",68,0.08,No,Final/Certified,male-blank-profile-photo.png
+29157,7889,2018-03-07,Presidential,"District Results",Bonthe,South,Claudius-Cole,Olufemi,UP,99ccff,"First Round",67,0.09,No,Final/Certified,olufemi-josephine-claudius-cole.jpg
+29032,,2018-03-07,Presidential,"District Results","Western Area Rural",West,,,,,"First Round",66,0.04,No,Provisional,
+32347,7890,2018-03-07,Presidential,"District Results",Karene,"North West",Sandy,"Jonathan Patrick",NURP,343a40,"First Round",64,0.08,No,Final/Certified,"jonathan sandy.png"
+29029,,2018-03-07,Presidential,"District Results",Bonthe,South,,,,,"First Round",63,0.11,No,Provisional,
+29122,7887,2018-03-07,Presidential,"District Results",Karene,"North West",Sowa,Mohamed,UDM,9900cc,"First Round",60,0.07,No,Final/Certified,mohamed-turay-sowa.png
+1739,34,2002-05-14,Presidential,"District Results",Bonthe,South,Koroma,"Johnny Paul",PLP,F08080,"First Round",59,0.10,No,Final/Certified,
+29031,,2018-03-07,Presidential,"District Results",Pujehun,South,,,,,"First Round",55,0.09,No,Provisional,
+29021,,2018-03-07,Presidential,"District Results",Bombali,North,,,,,"First Round",53,0.04,No,Provisional,
+29026,,2018-03-07,Presidential,"District Results",Karene,"North West",,,,,"First Round",49,0.08,No,Provisional,
+1729,29,2002-05-14,Presidential,"District Results",Pujehun,South,Bangura,Zainab,MOP,808080,"First Round",30,0.00,No,Final/Certified,haja-zainab-hawa-bangura.jpg
+1736,35,2002-05-14,Presidential,"District Results",Bonthe,South,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",19,0.00,No,Final/Certified,
+1743,36,2002-05-14,Presidential,"District Results",Bonthe,South,Turay,Andrew,YPP,D3D3D3,"First Round",17,0.00,No,Final/Certified,
+1734,36,2002-05-14,Presidential,"District Results",Pujehun,South,Turay,Andrew,YPP,D3D3D3,"First Round",14,0.00,No,Final/Certified,
+1728,31,2002-05-14,Presidential,"District Results",Pujehun,South,Kamara,Raymond,GAP,FFA07A,"First Round",13,0.00,No,Final/Certified,
+1727,35,2002-05-14,Presidential,"District Results",Pujehun,South,Thompson,"Raymond Bamidele",CUPP,808080,"First Round",12,0.00,No,Final/Certified,
+1737,31,2002-05-14,Presidential,"District Results",Bonthe,South,Kamara,Raymond,GAP,FFA07A,"First Round",9,0.00,No,Final/Certified,
